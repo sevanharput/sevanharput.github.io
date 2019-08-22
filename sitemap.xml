@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-08-01T16:04:59+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/sr_3d/</loc>
+    <lastmod>2019-08-01T16:04:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-08-01T16:04:59+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-08-01T16:04:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-01T16:04:59+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-06-06T14:03:47+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/velocity_tracking/</loc>
+    <lastmod>2019-06-06T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/coil_detection_breast/</loc>
+    <lastmod>2019-05-05T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/motion_correction/</loc>
+    <lastmod>2019-04-04T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/superresolution_translation/</loc>
+    <lastmod>2019-03-03T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/bone_characterization/</loc>
+    <lastmod>2019-02-02T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ultrasound_air/</loc>
+    <lastmod>2019-01-01T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sr_motion_correction/</loc>
+    <lastmod>2018-04-01T16:04:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/granular_chains/</loc>
+    <lastmod>2017-11-01T16:04:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/subharmonic/</loc>
+    <lastmod>2013-12-01T16:04:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tooth/</loc>
+    <lastmod>2011-10-01T16:04:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/lab/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
