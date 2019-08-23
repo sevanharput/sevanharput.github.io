@@ -39,6 +39,16 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2019-07-03T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/july2019_imperial_leaving/</loc>
+    <lastmod>2019-07-03T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2019-06-06T14:03:47+10:00</lastmod>
     <priority>0</priority>
@@ -75,6 +85,11 @@
   </url>
   
   <url>
+    <loc>/lab/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/sr_motion_correction/</loc>
     <lastmod>2018-04-01T16:04:59+10:00</lastmod>
   </url>
@@ -95,11 +110,12 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/news/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/lab/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -110,10 +126,6 @@
   <url>
     <loc>/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
   </url>
   
   <url>

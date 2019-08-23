@@ -5,12 +5,20 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Wed, 03 Jul 2019 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Sevan&#39;s leaving do at Imperial College London.</title>
+      <link>/post/july2019_imperial_leaving/</link>
+      <pubDate>Wed, 03 Jul 2019 14:03:47 +1000</pubDate>
+      <guid>/post/july2019_imperial_leaving/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
