@@ -40,7 +40,12 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-07-03T14:03:47+10:00</lastmod>
+    <lastmod>2019-07-15T14:03:47+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/july2019_lsbu_start/</loc>
+    <lastmod>2019-07-15T14:03:47+10:00</lastmod>
   </url>
   
   <url>
@@ -86,6 +91,11 @@
   
   <url>
     <loc>/lab/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
