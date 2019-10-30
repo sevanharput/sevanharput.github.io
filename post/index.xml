@@ -5,12 +5,21 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 15 Jul 2019 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Sun, 06 Oct 2019 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Sevan attends IEEE International Ultrasonics Symposium (IUS) 2019 in Glasgow, UK.</title>
+      <link>/post/oct2019_ius/</link>
+      <pubDate>Sun, 06 Oct 2019 14:03:47 +1000</pubDate>
+      <guid>/post/oct2019_ius/</guid>
+      <description>&lt;p&gt;Catching up with friends and colleagues in Glasgow, UK.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sevan joins London South Bank University as a lecturer</title>
