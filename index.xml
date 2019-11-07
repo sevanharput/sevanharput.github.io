@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Sun, 06 Oct 2019 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 01 Nov 2019 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
@@ -18,6 +18,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/contact/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Apply for a PhD in ultrasound imaging.</title>
+      <link>/post/nov2019_phd_positions/</link>
+      <pubDate>Fri, 01 Nov 2019 14:03:47 +1000</pubDate>
+      <guid>/post/nov2019_phd_positions/</guid>
+      <description>&lt;p&gt;PhD scholarships available in ultrasound imaging: &lt;a href=&#34;https://www.jobs.ac.uk/job/BWO083/phd-scholarships&#34; target=&#34;_blank&#34;&gt;https://www.jobs.ac.uk/job/BWO083/phd-scholarships&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.lsbu.ac.uk/__data/assets/pdf_file/0011/254756/Advert-PhD-SoE_Nov2019.pdf&#34; target=&#34;_blank&#34;&gt;Click here&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
     </item>
     
     <item>
