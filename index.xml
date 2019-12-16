@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 01 Nov 2019 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Sun, 15 Dec 2019 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
@@ -18,6 +18,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/contact/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Our abstract has been accepted for the 25th European symposium on Ultrasound Contrast Imaging 2020 in Rotterdam, NL.</title>
+      <link>/post/dec2019_rotterdam_conf_accept/</link>
+      <pubDate>Sun, 15 Dec 2019 14:03:47 +1000</pubDate>
+      <guid>/post/dec2019_rotterdam_conf_accept/</guid>
+      <description>&lt;p&gt;Our abstract on ‘Micro vessel Analysis with 3D Super-resolution Ultrasound and Super-Resolved Velocity Mapping’ has been accepted as an oral presentation for the competition: SUPER-RESOLUTION IMAGING.
+It will be presented by Matthieu Toulemonde at the 25th European symposium on Ultrasound Contrast Imaging 2020 in Rotterdam, NL.&lt;/p&gt;
+</description>
     </item>
     
     <item>
