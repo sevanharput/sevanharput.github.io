@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Sun, 15 Dec 2019 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Wed, 15 Jan 2020 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
@@ -14,138 +14,34 @@
     
     <item>
       <title>Contact</title>
-      <link>/contact/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/contact/contact/</guid>
+      <guid>/contact/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Our abstract has been accepted for the 25th European symposium on Ultrasound Contrast Imaging 2020 in Rotterdam, NL.</title>
-      <link>/post/dec2019_rotterdam_conf_accept/</link>
-      <pubDate>Sun, 15 Dec 2019 14:03:47 +1000</pubDate>
-      <guid>/post/dec2019_rotterdam_conf_accept/</guid>
-      <description>&lt;p&gt;Our abstract on ‘Micro vessel Analysis with 3D Super-resolution Ultrasound and Super-Resolved Velocity Mapping’ has been accepted as an oral presentation for the competition: SUPER-RESOLUTION IMAGING.
-It will be presented by Matthieu Toulemonde at the 25th European symposium on Ultrasound Contrast Imaging 2020 in Rotterdam, NL.&lt;/p&gt;
-</description>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Wed, 15 Jan 2020 14:03:47 +1000</pubDate>
+      <guid>/post/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Apply for a PhD in ultrasound imaging.</title>
-      <link>/post/nov2019_phd_positions/</link>
-      <pubDate>Fri, 01 Nov 2019 14:03:47 +1000</pubDate>
-      <guid>/post/nov2019_phd_positions/</guid>
-      <description>&lt;p&gt;PhD scholarships available in ultrasound imaging: &lt;a href=&#34;https://www.jobs.ac.uk/job/BWO083/phd-scholarships&#34; target=&#34;_blank&#34;&gt;https://www.jobs.ac.uk/job/BWO083/phd-scholarships&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.lsbu.ac.uk/__data/assets/pdf_file/0011/254756/Advert-PhD-SoE_Nov2019.pdf&#34; target=&#34;_blank&#34;&gt;Click here&lt;/a&gt; for more details.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sevan attends IEEE International Ultrasonics Symposium (IUS) 2019 in Glasgow, UK.</title>
-      <link>/post/oct2019_ius/</link>
-      <pubDate>Sun, 06 Oct 2019 14:03:47 +1000</pubDate>
-      <guid>/post/oct2019_ius/</guid>
-      <description>&lt;p&gt;Catching up with friends and colleagues in Glasgow, UK.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>3-D Super-Resolution Ultrasound Imaging with a 2-D Sparse Array</title>
-      <link>/publication/sr_3d/</link>
+      <title>Publications</title>
+      <link>/publication/</link>
       <pubDate>Thu, 01 Aug 2019 16:04:59 +1000</pubDate>
-      <guid>/publication/sr_3d/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sevan joins London South Bank University as a lecturer</title>
-      <link>/post/july2019_lsbu_start/</link>
-      <pubDate>Mon, 15 Jul 2019 14:03:47 +1000</pubDate>
-      <guid>/post/july2019_lsbu_start/</guid>
-      <description>&lt;p&gt;It is a very friendly environment. Many opportunities to start and lead new research projects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sevan&#39;s leaving do at Imperial College London</title>
-      <link>/post/july2019_imperial_leaving/</link>
-      <pubDate>Wed, 03 Jul 2019 14:03:47 +1000</pubDate>
-      <guid>/post/july2019_imperial_leaving/</guid>
-      <description>&lt;p&gt;Thank you everyone for coming. I will remember it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Velocity tracking for super-resolution ultrasound imaging</title>
-      <link>/project/velocity_tracking/</link>
+      <title>Projects</title>
+      <link>/project/</link>
       <pubDate>Thu, 06 Jun 2019 14:03:47 +1000</pubDate>
-      <guid>/project/velocity_tracking/</guid>
-      <description>&lt;p&gt;In a 2019 article called “3-D Super-Resolution Ultrasound Imaging with a 2-D Sparse Array”, velocities of detected microbubbles were traced using the nearest neighbour method between consecutive frames. An additional measure was used to filter incorrect pairings. If, in consecutive frames, there was more than 50% deviation in volume size between the microbubble echoes, that velocity track was replaced with the next closest microbubble pair after the same size comparison. To accelerate the tracking, a search window was set to allow a maximum microbubble velocity of 100 mm/s, which is larger than the velocity profile expected in human microcirculation.&lt;/p&gt;
-
-&lt;p&gt;Velocity maps can easily distinguish opposing flow directions and separate adjacent vessels according to their speed distribution.  Therefore, velocity tracking enables further differentiation between vessels otherwise not spatially separated in the image. For this reason, evaluating different tracking methods (including Kalman filters, machine-learning, Hungarian algorithm, Trackmate for ImageJ, etc.) and finding the most suitable technique for super-resolution ultrasound imaging is crucial.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pre-operative breast coil sensing with ultrasound</title>
-      <link>/project/coil_detection_breast/</link>
-      <pubDate>Sun, 05 May 2019 14:03:47 +1000</pubDate>
-      <guid>/project/coil_detection_breast/</guid>
-      <description>&lt;p&gt;There is a need for a simple method to help surgeons find tiny cancers in the operating theatre during surgery. These tiny cancers are either detected early by screening or have been rendered tiny by pre-operative chemotherapy. Metallic markers are implanted at the site of breast tumour and they must be localised before the surgery.&lt;/p&gt;
-
-&lt;p&gt;Problem: Currently, radiologist places a wire at the site of the coil under ultrasound guidance again on the day of surgery. This complicates the patient journey and planning of the operating lists and means that there are frequent delays and wasted time in theatre – operating theatres being one of the most expensive resources in the hospital. If the marker could be detected by the surgeon in theatre without the need for a wire localisation on the day the logistical problems would be avoided.&lt;/p&gt;
-
-&lt;p&gt;Aim: To develop a non-imaging ultrasound probe for detection of metallic markers without the need for the insertion of a preoperative wire. An audio feedback will indicate the proximity of the marker to guide the surgeon during surgery.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Motion Correction for 3D Super-resolution Ultrasound Imaging</title>
-      <link>/project/motion_correction/</link>
-      <pubDate>Thu, 04 Apr 2019 14:03:47 +1000</pubDate>
-      <guid>/project/motion_correction/</guid>
-      <description>&lt;p&gt;Localization-based super-resolution methods rely on physiological flow to relocate or replenish sparsely distributed microbubbles inside. This results in long acquisition times in the order of seconds to generate a single super-resolved frame (excluding the data processing time) due to the slow flow in microvasculature.&lt;/p&gt;
-
-&lt;p&gt;A clinical method will require a handheld ultrasound scan. Through multiple frames acquired over a duration of seconds, handheld probe movement, respiration, and cardiac motion will significantly degrade the image quality and resolution. Using retrospective data, it was possible to implement a &lt;a href=&#34;https://ieeexplore.ieee.org/document/8334280&#34; target=&#34;_blank&#34;&gt;2D motion correction algorithm for super-resolution ultrasound imaging&lt;/a&gt;. This will form the basis of a 3D motion correction algorithm to be applied on newly acquired images. This project requires finding most suitable motion estimation and correction method for ultrasound imaging particularly for 3D super-resolution imaging.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Translation of Super-resolution Ultrasound Imaging to the Clinic</title>
-      <link>/project/superresolution_translation/</link>
-      <pubDate>Sun, 03 Mar 2019 14:03:47 +1000</pubDate>
-      <guid>/project/superresolution_translation/</guid>
-      <description>&lt;p&gt;Super-resolution ultrasound is a microvascular imaging modality that can enable real-time microscopic imaging in deep tissue. Super-resolution has already been successfully demonstrated &lt;a href=&#34;https://ieeexplore.ieee.org/document/6908009&#34; target=&#34;_blank&#34;&gt;pre-clinically&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore.ieee.org/document/8334280&#34; target=&#34;_blank&#34;&gt;clinically&lt;/a&gt; by Dr Harput’s previous research group. Although it is a revolutionary imaging modality, there are significant challenges for the clinical translation, such as huge amount of data and the corresponding computing power required to process such data.&lt;/p&gt;
-
-&lt;p&gt;Implementing a fast in vivo imaging is essential for clinical translation. Currently, super-resolution data processing and image formation take &amp;gt;6 hours, which must be reduced to a clinically acceptable timescale. The existing super-localization and filtering methods must be replaced with algorithms that have lower computational complexity. Also these algorithms should be implemented on a GPU while using computer learning-based methods for further acceleration.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ultrasonic bone characterization</title>
-      <link>/project/bone_characterization/</link>
-      <pubDate>Sat, 02 Feb 2019 14:03:47 +1000</pubDate>
-      <guid>/project/bone_characterization/</guid>
-      <description>&lt;p&gt;Over 3 million people in the UK are estimated to have osteoporosis, which is commonly diagnosed by patients’ medical history and measuring bone mineral density (BMD) using X-Ray radiation. BMD is also a crucial parameter for the &lt;a href=&#34;https://www.nhs.uk/live-well/healthy-body/osteoporosis-fracture-risk-assessment-tool-frax/&#34; target=&#34;_blank&#34;&gt;NHS Fracture Risk Assessment Tool&lt;/a&gt; to estimate a 10-year probability of major fracture risk in the spine, shoulder, forearm or hip, which is especially important for the aging UK population. Ultrasound sensing can offer a bone monitoring method that is safe, practical and quantitative, so that it can be used for prognosis and during the personalized treatment process as frequently as necessary.&lt;/p&gt;
-
-&lt;p&gt;Aim: Develop a new method on “Bone characterization with acoustic and ultrasound waves” for measuring BMD. Commercial ultrasound scanners are designed for soft-tissue imaging and their performance is poor for hard-tissue imaging due to its different biomechanics. The opportunity here is that bone tissue allows the propagation of surface waves for longer distances unlike soft-tissue. Instead of designing an expensive imaging system, by strategically placing ultrasound sensors at certain locations valuable information can be acquired by several transducers. Especially for patients with metal implants and hip replacements ultrasound imaging is the best modality since CT and MRI are prone to artefacts.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ultrasound array imaging in air</title>
-      <link>/project/ultrasound_air/</link>
-      <pubDate>Tue, 01 Jan 2019 14:03:47 +1000</pubDate>
-      <guid>/project/ultrasound_air/</guid>
-      <description>&lt;p&gt;Ultrasound imaging and range detection has been used in many applications, such as medical imaging, robotics, underwater sonar, parking sensors, etc… Dr Harput has developed an &lt;a href=&#34;https://ieeexplore.ieee.org/document/4655542&#34; target=&#34;_blank&#34;&gt;ultrasonic phased array prototype device&lt;/a&gt; to provide mobility aid for visually impaired people. To perform imaging, a transmit array and a receive array were constructed using commercially available ultrasonic transducers.&lt;/p&gt;
-
-&lt;p&gt;Aim: Develop a new ultrasound imaging method in air for an application of your choice. You can benefit from the existing research expertise within the group.&lt;/p&gt;
-</description>
+      <guid>/project/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -165,42 +61,18 @@ It will be presented by Matthieu Toulemonde at the 25th European symposium on Ul
     </item>
     
     <item>
-      <title>Two-Stage Motion Correction for Super-Resolution Ultrasound Imaging in Human Lower Limb</title>
-      <link>/publication/sr_motion_correction/</link>
-      <pubDate>Sun, 01 Apr 2018 16:04:59 +1000</pubDate>
-      <guid>/publication/sr_motion_correction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generation of Ultrasound Pulses in Water Using Granular Chains with a Finite Matching Layer</title>
-      <link>/publication/granular_chains/</link>
-      <pubDate>Wed, 01 Nov 2017 16:04:59 +1000</pubDate>
-      <guid>/publication/granular_chains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Effect of Amplitude Modulation on Subharmonic Imaging with Chirp Excitation</title>
-      <link>/publication/subharmonic/</link>
-      <pubDate>Sun, 01 Dec 2013 16:04:59 +1000</pubDate>
-      <guid>/publication/subharmonic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diagnostic ultrasound tooth imaging using fractional Fourier transform</title>
-      <link>/publication/tooth/</link>
-      <pubDate>Sat, 01 Oct 2011 16:04:59 +1000</pubDate>
-      <guid>/publication/tooth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>News</title>
       <link>/news/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     
