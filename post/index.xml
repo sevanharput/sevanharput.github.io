@@ -5,12 +5,21 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Wed, 15 Jan 2020 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 21 Jan 2020 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Presenting our research at the Parliament, London, UK.</title>
+      <link>/post/jan2020_icr-seminar-copy/</link>
+      <pubDate>Tue, 21 Jan 2020 14:03:47 +1000</pubDate>
+      <guid>/post/jan2020_icr-seminar-copy/</guid>
+      <description>&lt;p&gt;Dr Harput has been selected to display his research as a poster at the House of Commons on Monday 9th March in the Engineering Sciences Session of &lt;a href=&#34;http://stemforbritain.org.uk/&#34;&gt;STEM for BRITAIN 2020&lt;/a&gt;, from 3.30pm – 6.15pm in the Attlee Suite, Portcullis House, London, UK.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sevan is giving a seminar on 4 February 2020 at the Institute of Cancer Research (ICR), London, UK.</title>
