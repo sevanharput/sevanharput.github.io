@@ -5,12 +5,22 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Wed, 05 Feb 2020 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 28 Feb 2020 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>New research grant awarded by the Royal Society.</title>
+      <link>/post/mar2020_rs_grant/</link>
+      <pubDate>Fri, 28 Feb 2020 14:03:47 +1000</pubDate>
+      <guid>/post/mar2020_rs_grant/</guid>
+      <description>&lt;p&gt;Speed Ultrasoun Lab won a new research grant by &lt;a href=&#34;https://royalsociety.org/&#34;&gt;the Royal Society&lt;/a&gt; to develop new ultrasound transducer technology. 
+A total of £20k is awarded for this research project ‘&lt;a href=&#34;../../lab/#funding&#34;&gt;Human Ear-inspired Ultrasonic Transducer (HEUT) with a Spiral-shaped Acoustic Lens for 3D Localization of Sparse Scatterers&lt;/a&gt;’.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Presenting our research at Westminster, London, UK.</title>
