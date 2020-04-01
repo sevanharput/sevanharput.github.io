@@ -5,12 +5,22 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 28 Feb 2020 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 09 Mar 2020 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Presented at STEM for BRITAIN 2020</title>
+      <link>/post/mar2020_stemforbritain/</link>
+      <pubDate>Mon, 09 Mar 2020 14:03:47 +1000</pubDate>
+      <guid>/post/mar2020_stemforbritain/</guid>
+      <description>&lt;p&gt;Dr Harput has displayed his research as a poster at the House of Commons on Monday 9th March in the Engineering Sciences Session of &lt;a href=&#34;http://stemforbritain.org.uk/&#34;&gt;STEM for BRITAIN 2020&lt;/a&gt;, in the Attlee Suite, Portcullis House, London, UK. 
+Our work also received press release and media coverage &lt;a href=&#34;https://www.lsbu.ac.uk/about-us/news/new-research-grant-awarded-by-the-royal-society-and-presenting-at-stem-for-britain-2020&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New research grant awarded by the Royal Society.</title>
