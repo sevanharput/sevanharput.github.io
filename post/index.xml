@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 09 Mar 2020 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 07 Sep 2020 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
@@ -13,12 +13,61 @@
     </image>
     
     <item>
+      <title>Six abstract has been accepted for the IEEE IUS 2020.</title>
+      <link>/post/sept2020_ius2020/</link>
+      <pubDate>Mon, 07 Sep 2020 14:03:47 +1000</pubDate>
+      <guid>/post/sept2020_ius2020/</guid>
+      <description>&lt;html&gt;
+&lt;b&gt;Luzhen Nie et al. – “Localization of a Scatterer in 3D with a Single Measurement and Single Element Transducer”&lt;/b&gt;
+&lt;br&gt; Session Code: B1P-24 (Poster)
+&lt;br&gt; Date &amp; Time:  Wednesday September 09, 2020 (04:15 - 06:15)
+&lt;br&gt; &lt;br&gt; 
+&lt;p&gt;&lt;b&gt;Sevan Harput et al. – “Quantitative Microvessel Analysis with 3D Super-Resolution Ultrasound and Velocity Mapping”&lt;/b&gt;
+&lt;br&gt; Session Code:            B5P-07 (Poster)
+&lt;br&gt; Date &amp;amp; Time:              Wednesday September 09, 2020 (11:30 - 13:30)
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Matthieu Toulemonde et al. – “3D Super Localized Flow with Locally and Acoustically Activated Nanodroplets and High Frame Rate Imaging Using a Matrix Array”&lt;/b&gt;
+&lt;br&gt; Session Code:            B5P-11 (Poster)
+&lt;br&gt; Date &amp;amp; Time:              Wednesday September 09, 2020 (11:30 - 13:30)
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ge Zhang et al. – “Effect of Contrast Agent Concentration in Bubble- and Droplet-Based Super-Resolution Imaging Using a Cardiac Phased Array Probe”&lt;/b&gt;
+&lt;br&gt; Session Code:            B5P-07 (Poster)
+&lt;br&gt; Date &amp;amp; Time:              Wednesday September 09, 2020 (11:30 - 13:30)
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ge Zhang et al. – “Effect of Mechanical Index on Repeated Sparse Activation of Nanodroplets in Vivo”&lt;/b&gt;
+&lt;br&gt; Session Code:            B5P-11 (Poster)
+&lt;br&gt; Date &amp;amp; Time:              Wednesday September 09, 2020 (11:30 - 13:30)
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Michael Berthaume et al. – “Detecting and Characterizing the Fabella with High Frame-Rate Ultrasound Imaging”&lt;/b&gt;
+&lt;br&gt; Session Code:            C1P-10 (Poster)
+&lt;br&gt; Date &amp;amp; Time:               Thursday September 10, 2020 (04:15 - 06:15)
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/html&gt;
+&lt;br&gt;
+&lt;p&gt;For the full IUS 2020 program &lt;a href=&#34;https://2020.ieee-ius.org/program-0&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apply for a PhD in ultrasound bone imaging.</title>
+      <link>/post/july2020_phd_positions/</link>
+      <pubDate>Wed, 01 Jul 2020 14:03:47 +1000</pubDate>
+      <guid>/post/july2020_phd_positions/</guid>
+      <description>&lt;p&gt;PhD scholarships available in ultrasound bone imaging. 
+Contact Dr Harput for details. Application deadline is 01/08/2020.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Presented at STEM for BRITAIN 2020</title>
       <link>/post/mar2020_stemforbritain/</link>
       <pubDate>Mon, 09 Mar 2020 14:03:47 +1000</pubDate>
       <guid>/post/mar2020_stemforbritain/</guid>
       <description>&lt;p&gt;Dr Harput has displayed his research as a poster at the House of Commons on Monday 9th March in the Engineering Sciences Session of &lt;a href=&#34;http://stemforbritain.org.uk/&#34;&gt;STEM for BRITAIN 2020&lt;/a&gt;, in the Attlee Suite, Portcullis House, London, UK. 
-Our work also received press release and media coverage &lt;a href=&#34;https://www.lsbu.ac.uk/about-us/news/new-research-grant-awarded-by-the-royal-society-and-presenting-at-stem-for-britain-2020&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+Our work received press release and media coverage &lt;a href=&#34;https://www.lsbu.ac.uk/about-us/news/new-research-grant-awarded-by-the-royal-society-and-presenting-at-stem-for-britain-2020&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
