@@ -22,5 +22,60 @@
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/authors/beng_constantin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/beng_constantin/</guid>
+      <description>&lt;p&gt;Constantin works on the &amp;ldquo;Ultrasonic levitation&amp;rdquo; project. The aim of his project is gaining a deeper understanding of how ultrasonic waves behave in an air-bone medium and to create free standing waves where small particles can be trapped and levitated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/beng_sara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/beng_sara/</guid>
+      <description>&lt;p&gt;Sara works on the &amp;ldquo;Pre-operative breast coil sensing with ultrasound&amp;rdquo; project. Wire localization is a standard pre-operative procedure used to facilitate the localization of tumours in breast cancer patients. This method has many well documented disadvantages, the reason why non-wire alternatives are needed. Sara&amp;rsquo;s project investigates the development of a hardware that can detect metallic markers and find tiny cancers to guide the surgeon during cancer removal surgery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/meng_bijay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/meng_bijay/</guid>
+      <description>&lt;p&gt;Bijay works on the &amp;ldquo;Machine Learning for the Portable Metallic Marker Detection Device&amp;rdquo; project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/meng_cherisse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/meng_cherisse/</guid>
+      <description>&lt;p&gt;Cherisse works on the &amp;ldquo;Portable Metallic Marker Detection Device for Breast Cancer Patients&amp;rdquo; project. Metallic markers are used to facilitate the localization of tumours in breast cancer patients. Her project focuses on the development of a hardware and signal processing algorithms to detect metallic markers and find tiny cancers to guide the surgeon during cancer removal surgery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/phd_hossam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/phd_hossam/</guid>
+      <description>&lt;p&gt;Hossam works on the &amp;ldquo;Ultrasound Imaging of Human Bone with High Resolution&amp;rdquo; project. The aim of his research project is to develop a new bone image technology with high-resolution ultrasound. This new imaging method will visualise the pores inside human bone and separate cortical and trabecular regions. This technology is crucial for assessing bone loss with high accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/pi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/pi/</guid>
+      <description>&lt;p&gt;Sevan leads the SPE3D (/speed/) Ultrasound research lab, which aims to develop new imaging and sensing technologies using acoustic waves at ultrasonic frequencies. Current research projects focus on high frame-rate ultrasound imaging, super-resolution methods, 3D ultrasound imaging, signal processing for biomedical imaging, ultrasound sensor modelling and development.&lt;/p&gt;
+&lt;p&gt;Sevan started his research career during his MSc while developing an acoustic imaging device to provide mobility aid for visually impaired people. He earned his PhD in Electronic and Electrical Engineering by implementing coded excition methods for soft-tissue, hard-tissue and contrast-enhanced ultrasound imaging. As a research fellow at University of Leeds, he worked on the development of a new transducer technology for the Sound Bullets project. Later, he conducted his postdoctoral research at Imperial College London and King&amp;rsquo;s College London (visiting researcher) working on 2D and 3D ultrasound super-resolution imaging.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
