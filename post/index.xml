@@ -5,12 +5,70 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 07 Sep 2020 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 01 Jun 2021 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>New Ultrasound Bone Quantification Project</title>
+      <link>/post/jun2021_rei-presentation/</link>
+      <pubDate>Tue, 01 Jun 2021 14:03:47 +1000</pubDate>
+      <guid>/post/jun2021_rei-presentation/</guid>
+      <description>&lt;html&gt;
+&lt;b&gt;Sevan Harput – “A New Non-Invasive Technique for Bone Porosity Imaging”&lt;/b&gt;
+&lt;br&gt; Event: BioMedical Imaging at LSBU: A Vision of the Future in Imaging Technology
+&lt;br&gt; Organiser: London South Bank University
+&lt;br&gt; Date &amp; Time:  June 8, 2021 (10:20)
+&lt;br&gt; &lt;br&gt; 
+&lt;/html&gt;
+&lt;br&gt;
+&lt;p&gt;Join us to take the next step with your business and learn about the cutting edge developments in the area of BioMedical Imaging and Image Processing. The speakers will discuss successes in research, collaboration and commercialisation – in the areas of Ultrasound, Microwave Ultrawide Band Imaging, Infrared sensing and applications of machine vision and deep learning all to increase the quality of patient outcomes.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New 3D printed acoustic lenses for imaging</title>
+      <link>/post/mar2021_3d-lenses/</link>
+      <pubDate>Mon, 01 Mar 2021 14:03:47 +1000</pubDate>
+      <guid>/post/mar2021_3d-lenses/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;Desing and fabrication of our new acoustic lenses done for the our &lt;a href=&#34;https://royalsociety.org/&#34;&gt;the Royal Society&lt;/a&gt; research project ‘&lt;a href=&#34;../../lab/#funding&#34;&gt;Human Ear-inspired Ultrasonic Transducer (HEUT) with a Spiral-shaped Acoustic Lens for 3D Localization of Sparse Scatterers&lt;/a&gt;’.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper is accepted to ISBI 2021.</title>
+      <link>/post/feb2021_isbi2021/</link>
+      <pubDate>Sun, 07 Feb 2021 14:03:47 +1000</pubDate>
+      <guid>/post/feb2021_isbi2021/</guid>
+      <description>&lt;html&gt;
+&lt;b&gt;Enrico Grisan et al. – “Deep-Learning Estimation of Perfusion Kinetic Parameters in Contrast-Enhanced Ultrasound Imaging”&lt;/b&gt;
+&lt;br&gt; Session: Poster session 4 
+&lt;br&gt; Date &amp; Time:  April 15, 2021 (15:15)
+&lt;br&gt; &lt;br&gt; 
+&lt;/html&gt;
+&lt;br&gt;
+&lt;p&gt;Proceedings paper is available here: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9433776&#34;&gt;IEEE Xplore&lt;/a&gt; or &lt;a href=&#34;https://openresearch.lsbu.ac.uk/item/8vyzq&#34;&gt;LSBU Open Research&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LAB-in-a-BOX</title>
+      <link>/post/jan2021_lab-in-a-box/</link>
+      <pubDate>Fri, 15 Jan 2021 14:03:47 +1000</pubDate>
+      <guid>/post/jan2021_lab-in-a-box/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;We packed and shipped over 45 boxes for EEE students at level 6 and level 7. By using the LAB-in-a-BOX, it will be possible to do the labs from home and get real hands on experience during Covid. 
+Tweeted by the division, &lt;a href=&#34;https://twitter.com/EEE_LSBU/status/1356728489714606080&#34;&gt;click here&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>Six abstracts have been accepted for the IEEE IUS 2020.</title>
@@ -76,7 +134,7 @@ Our work received press release and media coverage &lt;a href=&#34;https://www.l
       <link>/post/mar2020_rs_grant/</link>
       <pubDate>Fri, 28 Feb 2020 14:03:47 +1000</pubDate>
       <guid>/post/mar2020_rs_grant/</guid>
-      <description>&lt;p&gt;Speed Ultrasoun Lab won a new research grant by &lt;a href=&#34;https://royalsociety.org/&#34;&gt;the Royal Society&lt;/a&gt; to develop new ultrasound transducer technology. 
+      <description>&lt;p&gt;Speed Ultrasound Lab won a new research grant by &lt;a href=&#34;https://royalsociety.org/&#34;&gt;the Royal Society&lt;/a&gt; to develop new ultrasound transducer technology. 
 A total of £20k is awarded for this research project ‘&lt;a href=&#34;../../lab/#funding&#34;&gt;Human Ear-inspired Ultrasonic Transducer (HEUT) with a Spiral-shaped Acoustic Lens for 3D Localization of Sparse Scatterers&lt;/a&gt;’.&lt;/p&gt;
 </description>
     </item>
