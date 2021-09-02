@@ -5,12 +5,37 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 01 Jun 2021 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Wed, 01 Sep 2021 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Three abstracts have been accepted for the IEEE IUS 2021.</title>
+      <link>/post/sept2021_ius2021/</link>
+      <pubDate>Wed, 01 Sep 2021 14:03:47 +1000</pubDate>
+      <guid>/post/sept2021_ius2021/</guid>
+      <description>&lt;html&gt;
+&lt;b&gt;Luzhen Nie et al. – “Localization of a Scatterer in 3D with a Single-Element Transducer”&lt;/b&gt;
+&lt;br&gt; Session Code: MIS Coded Excitation &amp; Tomography (Poster)
+&lt;br&gt; Date &amp; Time:  Thursday September 16, 2021 (10:15 - 12:15)
+&lt;br&gt; &lt;br&gt; 
+&lt;p&gt;&lt;b&gt;Mircea Constantin et al. – “Quantitative Microvessel Analysis with 3D Super-Resolution Ultrasound and Velocity Mapping”&lt;/b&gt;
+&lt;br&gt; Session Code: PAT Acoustic Tweezers &amp;amp; Particle Manipulation I (Lecture)
+&lt;br&gt; Date &amp;amp; Time: Monday September 13, 2021 (13:00 - 15:00)
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Laura Peralta et al. – “Feasibility of 3D Coherent multi-Transducer Ultrasound Imaging with Two Sparse Arrays”&lt;/b&gt;
+&lt;br&gt; Session Code: MBB Volumetric Beamforming &amp;amp; Imaging (Poster)
+&lt;br&gt; Date &amp;amp; Time:  Wednesday September 15, 2021 (10:45 - 12:45)
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/html&gt;
+&lt;br&gt;
+&lt;p&gt;For the full IUS 2021 program &lt;a href=&#34;https://2021.ieee-ius.org/program-grid/&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>New Ultrasound Bone Quantification Project</title>
