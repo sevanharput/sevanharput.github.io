@@ -5,12 +5,33 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 15 Oct 2021 14:33:17 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 14 Jun 2022 11:30:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Our research presentation at QMSKI 2022 in Noordwijk, Netherlands.</title>
+      <link>/post/2022jun_qmski/</link>
+      <pubDate>Tue, 14 Jun 2022 11:30:47 +1000</pubDate>
+      <guid>/post/2022jun_qmski/</guid>
+      <description>&lt;p&gt;Great presentation by Hossam Hassan on detection of cortical bone porosity and thickness using multi-frequency ultrasound measurements at &lt;a href=&#34;https://qmski.org/&#34;&gt;QMSKI 2022&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fully Funded &amp; Industry Sponsored PhD Scholarship in Ultrasonic Testing and Data Analysis for Nuclear Industry .</title>
+      <link>/post/2022may_phd_positions/</link>
+      <pubDate>Sun, 01 May 2022 14:03:47 +1000</pubDate>
+      <guid>/post/2022may_phd_positions/</guid>
+      <description>&lt;p&gt;We are offering an industrial PhD scholarships funded by the National Nuclear Laboratory and the Sellafield Ltd, which manages the nuclear fuel reprocessing, nuclear waste storage and nuclear decommissioning. The industrial partners expect the PhD project to develop into a real world product, where the successful PhD candidate will be able to lead the project beyond the PhD timeline. 
+Click here for details: &lt;a href=&#34;https://sevanharput.github.io/post/2022May_PhD_positions/post.pdf&#34;&gt;https://sevanharput.github.io/post/2022May_PhD_positions/post.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>Fully funded industrial PhD position available.</title>
