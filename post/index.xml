@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 14 Jun 2022 11:30:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 21 Jun 2022 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
@@ -13,10 +13,21 @@
     </image>
     
     <item>
+      <title>Three abstracts have been accepted for the IEEE IUS 2022.</title>
+      <link>/post/2022june_ius2022/</link>
+      <pubDate>Tue, 21 Jun 2022 14:03:47 +1000</pubDate>
+      <guid>/post/2022june_ius2022/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;For the full IUS 2022 program check the &lt;a href=&#34;https://2022.ieee-ius.org/&#34;&gt;website&lt;/a&gt; before the conference.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Our research presentation at QMSKI 2022 in Noordwijk, Netherlands.</title>
-      <link>/post/2022jun_qmski/</link>
+      <link>/post/2022june_qmski/</link>
       <pubDate>Tue, 14 Jun 2022 11:30:47 +1000</pubDate>
-      <guid>/post/2022jun_qmski/</guid>
+      <guid>/post/2022june_qmski/</guid>
       <description>&lt;p&gt;Great presentation by Hossam Hassan on detection of cortical bone porosity and thickness using multi-frequency ultrasound measurements at &lt;a href=&#34;https://qmski.org/&#34;&gt;QMSKI 2022&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -43,6 +54,19 @@ The aim of this research project is to develop a novel therapeutic method by com
 The PhD project will focus on characterization of novel therapeutic nanodroplets using ultrasound and microwaves. PhD student will work closely with the Prof M Thanou’s research team at King’s College London, who are developing the nanodroplets. 
 &lt;a href=&#34;https://drive.google.com/file/d/1l_0xaYC38muGHpGlYt8urqaxjWdDrYED/view?usp=sharing&#34;&gt;Click here for details&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Realistic Bone Simulations for Ultrasonic Characterization of Cortical Bone Porosity and Thickness</title>
+      <link>/post/2022mar_realisticbonesim/</link>
+      <pubDate>Sat, 05 Mar 2022 12:03:47 +1000</pubDate>
+      <guid>/post/2022mar_realisticbonesim/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;To establish a more realistic model, cortical bone simulations were generated using microstructural elements extracted from a real micrograph. Then, the new extracted pores have been used as seeds to build a reference dictionary. For the extracted pores, many features have been calculated and considered such as the effective diameters, pore sizes, and pores geometrical shapes. By employing this dictionary, numerous numbers of new cortical bone maps could be generated.&lt;/p&gt;
+&lt;p&gt;In realsitic simulations, pores are randomly distributed within the cortical bone to mimic different biological conditions. In addition, geometric distortions have been added and considered including bone curvature, surface roughness, and pore-density weighting along the lateral-medial or anterior-posterior direction.&lt;/p&gt;
+&lt;p&gt;Research project: ‘&lt;a href=&#34;../../project/bone_characterization/&#34;&gt;Ultrasonic bone characterization&lt;/a&gt;’.&lt;/p&gt;
 &lt;br&gt;
 </description>
     </item>
@@ -86,9 +110,9 @@ The PhD project will focus on characterization of novel therapeutic nanodroplets
     
     <item>
       <title>New Ultrasound Bone Quantification Project</title>
-      <link>/post/2021jun_rei-presentation/</link>
+      <link>/post/2021june_rei-presentation/</link>
       <pubDate>Tue, 01 Jun 2021 14:03:47 +1000</pubDate>
-      <guid>/post/2021jun_rei-presentation/</guid>
+      <guid>/post/2021june_rei-presentation/</guid>
       <description>&lt;html&gt;
 &lt;b&gt;Sevan Harput – “A New Non-Invasive Technique for Bone Porosity Imaging”&lt;/b&gt;
 &lt;br&gt; Event: BioMedical Imaging at LSBU: A Vision of the Future in Imaging Technology
@@ -221,7 +245,7 @@ A total of £20k is awarded for this research project ‘&lt;a href=&#34;../../l
     </item>
     
     <item>
-      <title>Sevan gave a seminar on 4 February 2020 at the Institute of Cancer Research (ICR), London, UK.</title>
+      <title>Seminar on 4 February 2020 at the Institute of Cancer Research (ICR), London, UK.</title>
       <link>/post/2020jan_icr-seminar/</link>
       <pubDate>Tue, 04 Feb 2020 14:03:47 +1000</pubDate>
       <guid>/post/2020jan_icr-seminar/</guid>
@@ -254,7 +278,7 @@ A total of £20k is awarded for this research project ‘&lt;a href=&#34;../../l
       <pubDate>Sun, 15 Dec 2019 14:03:47 +1000</pubDate>
       <guid>/post/2019dec_rotterdam_conf_accept/</guid>
       <description>&lt;p&gt;Our abstract on ‘Micro vessel Analysis with 3D Super-resolution Ultrasound and Super-Resolved Velocity Mapping’ has been accepted as an oral presentation for the competition: SUPER-RESOLUTION IMAGING. 
-It will be presented by Matthieu Toulemonde at the 25th European symposium on Ultrasound Contrast Imaging 2020 in Rotterdam, NL.&lt;/p&gt;
+It will be presented by Dr Matthieu Toulemonde at the 25th European symposium on Ultrasound Contrast Imaging 2020 in Rotterdam, NL.&lt;/p&gt;
 </description>
     </item>
     
