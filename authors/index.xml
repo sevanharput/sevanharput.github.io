@@ -33,6 +33,15 @@
     
     <item>
       <title></title>
+      <link>/authors/beng_daniel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/beng_daniel/</guid>
+      <description>&lt;p&gt;The aim of his research project is to quantify cortical bone thickness and porosity. This technology is crucial for assessing bone loss with high accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/beng_david/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/beng_david/</guid>
@@ -42,10 +51,55 @@
     
     <item>
       <title></title>
+      <link>/authors/beng_jawana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/beng_jawana/</guid>
+      <description>&lt;p&gt;David works on the &amp;ldquo;Pre-operative breast coil sensing with ultrasound&amp;rdquo; project. Wire localization is a standard pre-operative procedure used to facilitate the localization of tumours in breast cancer patients. This method has many well documented disadvantages, the reason why non-wire alternatives are needed. Sara&amp;rsquo;s project investigates the development of a hardware that can detect metallic markers and find tiny cancers to guide the surgeon during cancer removal surgery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/beng_luke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/beng_luke/</guid>
+      <description>&lt;p&gt;Luke works on the development a neuro-enhanced smart helmet (NESH) to assess cognitive and physical performance and classify them into the following states: 1- Mental fatigue or attention deficit; 2- Fear, stress or anxiety; 3- Sickness or physical fatigue; 4- Healthy (mentally and physically).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/beng_mohammad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/beng_mohammad/</guid>
+      <description>&lt;p&gt;Constantin works on the &amp;ldquo;Ultrasonic Levitation&amp;rdquo; project. The aim of his project is gaining a deeper understanding of how ultrasonic waves behave in an air-bone medium and to create free standing waves where small particles can be trapped and levitated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/beng_sara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/beng_sara/</guid>
       <description>&lt;p&gt;Sara works on the &amp;ldquo;Pre-operative Breast Coil Sensing with Ultrasound&amp;rdquo; project. Wire localization is a standard pre-operative procedure used to facilitate the localization of tumours in breast cancer patients. This method has many well documented disadvantages, the reason why non-wire alternatives are needed. Sara&amp;rsquo;s project investigates the development of a hardware that can detect metallic markers and find tiny cancers to guide the surgeon during cancer removal surgery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/beng_simi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/beng_simi/</guid>
+      <description>&lt;p&gt;Constantin works on the &amp;ldquo;Ultrasonic Levitation&amp;rdquo; project. The aim of his project is gaining a deeper understanding of how ultrasonic waves behave in an air-bone medium and to create free standing waves where small particles can be trapped and levitated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/beng_sophia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/beng_sophia/</guid>
+      <description>&lt;p&gt;Sophia is working on a skin-color-agnostic heart rate measruement method. This project uses a webcam to detect and record the face of a volunteer, then performs image processing algorithms to extract the heart rate information.&lt;/p&gt;
 </description>
     </item>
     
@@ -72,7 +126,7 @@
       <link>/authors/msc_resma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/msc_resma/</guid>
-      <description>&lt;p&gt;Resma works on the &amp;ldquo;Ultrasonic Imaging and Characterisation of Cortical Bone&amp;rdquo; project. The aim of his research project is to quantify cortical bone porosity. This technology is crucial for assessing bone loss with high accuracy.&lt;/p&gt;
+      <description>&lt;p&gt;The aim of her research project is to quantify cortical bone thickness and porosity. This technology is crucial for assessing bone loss with high accuracy.&lt;/p&gt;
 </description>
     </item>
     
@@ -82,6 +136,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/phd_hossam/</guid>
       <description>&lt;p&gt;Hossam works on the &amp;ldquo;Ultrasound Imaging of Human Bone with High Resolution&amp;rdquo; project. The aim of his research project is to develop a new bone image technology with high-resolution ultrasound. This new imaging method will visualise the pores inside human bone and separate cortical and trabecular regions. This technology is crucial for assessing bone loss with high accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/phd_jerome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/phd_jerome/</guid>
+      <description>&lt;p&gt;The problem Jereome wants to solve is that there is no way of non-destructive imaging of the internal structure of Antarctic ice cores, a unique and important resource for understanding climate data. The project tries to achive this by applying recent technological advances from biomedical imaging: multisensor arrays, high levels of stacking, and modern analysis techniques for the large data sets which are produced by this approach.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/phd_mishal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/phd_mishal/</guid>
+      <description>&lt;p&gt;Mishal works on the development of a screening tool to detect accumulated hydrogen gas in sealed nuclear waste containers. The project aims to construct experimental test apparatus that can br fitted with an ultrasonic/acoustic sensor array. Use this sensor array to obtain data to characterise the frequency response for estimation of internal gas concentration and pressure.&lt;/p&gt;
 </description>
     </item>
     
