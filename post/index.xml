@@ -5,12 +5,56 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 01 Aug 2022 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 24 Jan 2023 10:00:00 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Our research presentation at Nuclear Decommissioning Authority (NDA) PhD bursary seminar 2023 in Manchester, UK.</title>
+      <link>/post/2023jan_nda-seminar/</link>
+      <pubDate>Tue, 24 Jan 2023 10:00:00 +1000</pubDate>
+      <guid>/post/2023jan_nda-seminar/</guid>
+      <description>&lt;p&gt;Great presentation by Mishal Alfadhly on development of a new non-contact ultrasonic/acoustic pressure detection method for the nuclear industry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We are teaching ultrasound imaging for the world&#39;s first anthroengineeing course.</title>
+      <link>/post/2022nov_ultrasound-in-anthroengineering/</link>
+      <pubDate>Mon, 07 Nov 2022 13:00:40 +1000</pubDate>
+      <guid>/post/2022nov_ultrasound-in-anthroengineering/</guid>
+      <description>&lt;p&gt;A completely new academic course, MSc Anthroengineering, which for the first time brings together Engineering (science of technology) and Anthropology (science of humanity) has been started. &lt;a href=&#34;https://www.lsbu.ac.uk/about-us/news/worlds-first-anthroengineering-academic-course-to-start-in-2022&#34;&gt;Click here for more&amp;hellip;&lt;/a&gt;.
+Dr Harput is teaching the physics and applications of medical imaging modalities, especially ultrasound imaging.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Four presentations and more at the IEEE IUS 2022 in Venice, Italy.</title>
+      <link>/post/2022oct_ius2022/</link>
+      <pubDate>Sat, 15 Oct 2022 14:33:17 +1000</pubDate>
+      <guid>/post/2022oct_ius2022/</guid>
+      <description>&lt;html&gt;
+&lt;b&gt;Hossam H. Sultan et al. – “Estimation of Cortical Bone Strength Using CNN-based Regression Model”&lt;/b&gt;
+&lt;br&gt; https://ieeexplore.ieee.org/document/9957568
+&lt;br&gt; &lt;br&gt; 
+&lt;p&gt;&lt;b&gt;Luzhen Nie et al. – “3D Localization of Scatterers with a Spiral-Shaped Acoustic Lens”&lt;/b&gt;
+&lt;br&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/document/9958492&#34;&gt;https://ieeexplore.ieee.org/document/9958492&lt;/a&gt;
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Hossam H. Sultan et al. – “Classification of Cortical Bone Thicknesses Based on RF Signal Spectral Analysis”&lt;/b&gt;
+&lt;br&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/document/9958573&#34;&gt;https://ieeexplore.ieee.org/document/9958573&lt;/a&gt;
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ge Zhang et al. – “Ultrasound Super-Resolution Imaging for the Differentiation of Thyroid Nodules: A Feasibility Study”&lt;/b&gt;
+&lt;br&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/document/9958286&#34;&gt;https://ieeexplore.ieee.org/document/9958286&lt;/a&gt;
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/html&gt;
+&lt;br&gt;
+&lt;p&gt;For the full IUS 2021 program &lt;a href=&#34;https://2021.ieee-ius.org/program-grid/&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>Lab Transformation. Before and after.</title>
@@ -24,7 +68,7 @@
     </item>
     
     <item>
-      <title>Three abstracts have been accepted for the IEEE IUS 2022.</title>
+      <title>Four abstracts have been accepted for the IEEE IUS 2022.</title>
       <link>/post/2022june_ius2022/</link>
       <pubDate>Tue, 21 Jun 2022 14:03:47 +1000</pubDate>
       <guid>/post/2022june_ius2022/</guid>
