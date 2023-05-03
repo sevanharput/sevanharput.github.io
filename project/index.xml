@@ -5,12 +5,22 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Thu, 06 Jun 2019 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 03 Oct 2022 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Ultrasound Imaging of Ice</title>
+      <link>/project/imaging_ice/</link>
+      <pubDate>Mon, 03 Oct 2022 14:03:47 +1000</pubDate>
+      <guid>/project/imaging_ice/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Ice cores provide direct information about how greenhouse gas concentrations have changed in the past, and they also provide direct evidence that the climate can change abruptly under some circumstances.&amp;rdquo; &lt;a href=&#34;https://www.bas.ac.uk/data/our-data/publication/ice-cores-and-climate-change/&#34;&gt;British Antarctic Survey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our aim is to understand ice anisotropy and its impact on ice flow and stability in predicting future sea level rise. It proposes a new ultrasound method to determine crystal orientation fabric, identifying grain geometry with pulse-echo, without damaging the sample, unlike the current method of using polarised light microscopy.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Velocity tracking for super-resolution ultrasound imaging</title>
