@@ -5,12 +5,22 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 24 Jan 2023 10:00:00 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 26 May 2023 18:00:00 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Do you know how many researchers work on ultrasound in south London?</title>
+      <link>/post/2023may_slug/</link>
+      <pubDate>Fri, 26 May 2023 18:00:00 +1000</pubDate>
+      <guid>/post/2023may_slug/</guid>
+      <description>&lt;p&gt;A social event for ultrasound researchers in south London - all postcodes starting with an “S” :)
+Professors, lecturers, PDRAs, PhDs and any researchers with or without a degree are all welcome.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our research presentation at Nuclear Decommissioning Authority (NDA) PhD bursary seminar 2023 in Manchester, UK.</title>
