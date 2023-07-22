@@ -5,12 +5,21 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 26 May 2023 18:00:00 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Thu, 06 Jul 2023 18:00:00 +1300</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Imaging fabella at the Royal Society Summer Science Exhibition.</title>
+      <link>/post/2023july_rs_sse/</link>
+      <pubDate>Thu, 06 Jul 2023 18:00:00 +1300</pubDate>
+      <guid>/post/2023july_rs_sse/</guid>
+      <description>&lt;p&gt;It was an amazing experience to attend the Royal Society Summer Science Exhibition and do ultrasound scans on 145 volunteers, including two Fellows of the Royal Society and many science enthusiasts. Special thanks to Dr Michael Berthaume for leading the exhibition and Mrs Fenja Deister for her invaluable work.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Do you know how many researchers work on ultrasound in south London?</title>
