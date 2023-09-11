@@ -5,12 +5,46 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Thu, 06 Jul 2023 18:00:00 +1300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 08 Sep 2023 14:33:17 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Three presentations and more at the IEEE IUS 2023 in Montreal, Canada.</title>
+      <link>/post/2023sept_ius2023/</link>
+      <pubDate>Fri, 08 Sep 2023 14:33:17 +1000</pubDate>
+      <guid>/post/2023sept_ius2023/</guid>
+      <description>&lt;html&gt;
+&lt;b&gt;Hossam H. Sultan et al. – “Cortical Bone Thickness Assessment from Multi-frequency Ultrasound RF Data using a Convolutional Architecture with Multi-head Attention”&lt;/b&gt;
+# &lt;br&gt; https://ieeexplore.ieee.org/document/9957568
+&lt;br&gt; &lt;br&gt; 
+&lt;p&gt;&lt;b&gt;Jerome Graves et al. – “Determining the grain geometry from ultrasonic measurements of large-grained temperate ice cores”&lt;/b&gt;&lt;/p&gt;
+&lt;h1 id=&#34;br-httpsieeexploreieeeorgdocument9958492&#34;&gt;&lt;br&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/document/9958492&#34;&gt;https://ieeexplore.ieee.org/document/9958492&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Mohammad Aldahi et al. – “Investigation of Ultrasonically Levitated Droplets for Sonochemistry with High-Speed Camera Observations
+”&lt;/b&gt;&lt;/p&gt;
+&lt;h1 id=&#34;br-httpsieeexploreieeeorgdocument9958573&#34;&gt;&lt;br&gt; &lt;a href=&#34;https://ieeexplore.ieee.org/document/9958573&#34;&gt;https://ieeexplore.ieee.org/document/9958573&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/html&gt;
+&lt;br&gt;
+&lt;p&gt;For the full IEEE IUS 2023 program &lt;a href=&#34;https://2023.ieee-ius.org/&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Featured article on Applied Physics Letters.</title>
+      <link>/post/2023aug_apl_featured/</link>
+      <pubDate>Fri, 25 Aug 2023 14:33:17 +1000</pubDate>
+      <guid>/post/2023aug_apl_featured/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;Read our research article &lt;a href=&#34;https://pubs.aip.org/aip/apl/article-abstract/123/8/082203/2907915/A-human-ear-inspired-ultrasonic-transducer-HEUT&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>Imaging fabella at the Royal Society Summer Science Exhibition.</title>
@@ -79,7 +113,7 @@ Dr Harput is teaching the physics and applications of medical imaging modalities
 &lt;br&gt; &lt;br&gt;&lt;/p&gt;
 &lt;/html&gt;
 &lt;br&gt;
-&lt;p&gt;For the full IUS 2021 program &lt;a href=&#34;https://2021.ieee-ius.org/program-grid/&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the full IUS 2022 program check the &lt;a href=&#34;https://2022.ieee-ius.org/&#34;&gt;website&lt;/a&gt; before the conference.&lt;/p&gt;
 &lt;br&gt;
 </description>
     </item>

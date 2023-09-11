@@ -5,12 +5,20 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Thu, 01 Aug 2019 16:04:59 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Wed, 23 Aug 2023 16:04:59 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>A human ear-inspired ultrasonic transducer (HEUT) for 3D localization of sub-wavelength scatterers</title>
+      <link>/publication/heut/</link>
+      <pubDate>Wed, 23 Aug 2023 16:04:59 +1000</pubDate>
+      <guid>/publication/heut/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3-D Super-Resolution Ultrasound Imaging with a 2-D Sparse Array</title>

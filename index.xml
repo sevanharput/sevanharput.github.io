@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Thu, 06 Jul 2023 18:00:00 +1300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 08 Sep 2023 14:33:17 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
@@ -23,8 +23,16 @@
     <item>
       <title>Posts</title>
       <link>/post/</link>
-      <pubDate>Thu, 06 Jul 2023 18:00:00 +1300</pubDate>
+      <pubDate>Fri, 08 Sep 2023 14:33:17 +1000</pubDate>
       <guid>/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Wed, 23 Aug 2023 16:04:59 +1000</pubDate>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
@@ -33,14 +41,6 @@
       <link>/project/</link>
       <pubDate>Mon, 03 Oct 2022 14:03:47 +1000</pubDate>
       <guid>/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Thu, 01 Aug 2019 16:04:59 +1000</pubDate>
-      <guid>/publication/</guid>
       <description></description>
     </item>
     
