@@ -5,12 +5,21 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 03 Oct 2022 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 03 Jan 2023 14:03:47 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Ultrasonic levitation of droplets</title>
+      <link>/project/ultrasonic_levitation/</link>
+      <pubDate>Tue, 03 Jan 2023 14:03:47 +1000</pubDate>
+      <guid>/project/ultrasonic_levitation/</guid>
+      <description>&lt;p&gt;Ultrasonic levitation is a non-contact method of manipulating samples in mid-air that has drawn significant interest in the fields of biochemistry and pharmaceutical science. In these fields, the stability of levitated droplets is crucial for effective applications. This study aims to investigate the droplet levitation while focusing on their oscillation dynamics and levitation stability using an ultrasonic levitator with multiple nodes.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ultrasound Imaging of Ice</title>
@@ -54,7 +63,7 @@
     </item>
     
     <item>
-      <title>Translation of Super-resolution Ultrasound Imaging to the Clinic</title>
+      <title>Super-resolution Ultrasound Imaging</title>
       <link>/project/superresolution_translation/</link>
       <pubDate>Sun, 03 Mar 2019 14:03:47 +1000</pubDate>
       <guid>/project/superresolution_translation/</guid>
