@@ -1,394 +1,228 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/contact/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2023sept_lsbu_welcome_week/</loc>
     <lastmod>2023-09-25T14:33:17+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2023-09-25T14:33:17+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2023-09-25T14:33:17+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2023sept_ius2023/</loc>
     <lastmod>2023-09-08T14:33:17+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2023aug_apl_featured/</loc>
     <lastmod>2023-08-25T14:33:17+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/2/</loc>
     <lastmod>2023-08-23T16:04:59+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/heut/</loc>
     <lastmod>2023-08-23T16:04:59+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2023-08-23T16:04:59+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2023-08-23T16:04:59+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2023july_rs_sse/</loc>
     <lastmod>2023-07-06T18:00:00+13:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2023may_slug/</loc>
     <lastmod>2023-05-26T18:00:00+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2023jan_nda-seminar/</loc>
     <lastmod>2023-01-24T10:00:00+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2023jan_luke_iet-award/</loc>
     <lastmod>2023-01-09T10:00:00+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2023-01-03T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/ultrasonic_levitation/</loc>
     <lastmod>2023-01-03T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2022nov_ultrasound-in-anthroengineering/</loc>
     <lastmod>2022-11-07T13:00:40+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2022oct_ius2022/</loc>
     <lastmod>2022-10-15T14:33:17+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/imaging_ice/</loc>
     <lastmod>2022-10-03T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2022aug_lab_transformation/</loc>
     <lastmod>2022-08-01T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2022june_ius2022/</loc>
     <lastmod>2022-06-21T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2022june_qmski/</loc>
     <lastmod>2022-06-14T11:30:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2022may_phd_positions/</loc>
     <lastmod>2022-05-01T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2022apr_phd_positions/</loc>
     <lastmod>2022-04-01T14:13:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2022mar_realisticbonesim/</loc>
     <lastmod>2022-03-05T12:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021oct_phd_position/</loc>
     <lastmod>2021-10-15T14:33:17+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021sept_ius2021/</loc>
     <lastmod>2021-09-01T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021june_rei-presentation/</loc>
     <lastmod>2021-06-01T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021mar_3d-lenses/</loc>
     <lastmod>2021-03-01T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021feb_isbi2021/</loc>
     <lastmod>2021-02-07T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021jan_lab-in-a-box/</loc>
     <lastmod>2021-01-15T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020sept_ius2020/</loc>
     <lastmod>2020-09-07T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020july_phd_positions/</loc>
     <lastmod>2020-07-01T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020mar_stemforbritain/</loc>
     <lastmod>2020-03-09T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020mar_rs_grant/</loc>
     <lastmod>2020-02-28T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020jan_stemforbritain/</loc>
     <lastmod>2020-02-05T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020jan_icr-seminar/</loc>
     <lastmod>2020-02-04T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020jan_raeng_networkingevent/</loc>
     <lastmod>2020-01-28T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020jan_uae_minister_of_education/</loc>
     <lastmod>2020-01-24T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019dec_rotterdam_conf_accept/</loc>
     <lastmod>2019-12-15T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019nov_phd_positions/</loc>
     <lastmod>2019-11-01T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019oct_ius/</loc>
     <lastmod>2019-10-06T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sr_3d/</loc>
     <lastmod>2019-08-01T16:04:59+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019july_lsbu_start/</loc>
     <lastmod>2019-07-15T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019july_imperial_leaving/</loc>
     <lastmod>2019-07-03T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/velocity_tracking/</loc>
     <lastmod>2019-06-06T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/coil_detection_breast/</loc>
     <lastmod>2019-05-05T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/motion_correction/</loc>
     <lastmod>2019-04-04T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/superresolution_translation/</loc>
     <lastmod>2019-03-03T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/bone_characterization/</loc>
     <lastmod>2019-02-02T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/ultrasound_air/</loc>
     <lastmod>2019-01-01T14:03:47+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/lab/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/team/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sr_motion_correction/</loc>
     <lastmod>2018-04-01T16:04:59+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/granular_chains/</loc>
     <lastmod>2017-11-01T16:04:59+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/subharmonic/</loc>
     <lastmod>2013-12-01T16:04:59+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/tooth/</loc>
     <lastmod>2011-10-01T16:04:59+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/beng_constantin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/beng_daniel/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/beng_david/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/beng_jawana/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/beng_luke/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/beng_mohammad/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/beng_sara/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/beng_simi/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/beng_sophia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/meng_bijay/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/meng_cherisse/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/meng_lekshith/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/msc_resma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/phd_fenja/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/phd_hossam/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/phd_jerome/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/phd_maryam/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/phd_mishal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/pi/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>
