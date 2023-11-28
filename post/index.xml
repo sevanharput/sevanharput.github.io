@@ -5,12 +5,24 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 25 Sep 2023 14:33:17 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Wed, 01 Nov 2023 14:33:17 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Dr Harput joins the editorial board of the Frontiers in Acoustics.</title>
+      <link>/post/2023nov_frontierseditor/</link>
+      <pubDate>Wed, 01 Nov 2023 14:33:17 +1000</pubDate>
+      <guid>/post/2023nov_frontierseditor/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;Pleased to join the editorial board of Frontiers in Acoustics as review editor. This new journal will help drive innovation in its field through high quality open access research. Find out more:
+&lt;a href=&#34;https://www.frontiersin.org/journals/acoustics&#34;&gt;https://www.frontiersin.org/journals/acoustics&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>A very busy week at LSBU.</title>

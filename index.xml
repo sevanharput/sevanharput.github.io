@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Mon, 25 Sep 2023 14:33:17 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Wed, 01 Nov 2023 14:33:17 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
@@ -23,7 +23,7 @@
     <item>
       <title>Posts</title>
       <link>/post/</link>
-      <pubDate>Mon, 25 Sep 2023 14:33:17 +1000</pubDate>
+      <pubDate>Wed, 01 Nov 2023 14:33:17 +1000</pubDate>
       <guid>/post/</guid>
       <description></description>
     </item>
