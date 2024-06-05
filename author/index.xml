@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author | Sevan Harput</title>
+    <link>//localhost:1313/author/</link>
+      <atom:link href="//localhost:1313/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Author</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright>
+    <image>
+      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <title>Author</title>
+      <link>//localhost:1313/author/</link>
+    </image>
+    
+    <item>
+      <title>BEng_Constantin</title>
+      <link>//localhost:1313/author/beng_constantin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/beng_constantin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

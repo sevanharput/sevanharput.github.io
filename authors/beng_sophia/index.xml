@@ -12,5 +12,14 @@
       <link>/authors/beng_sophia/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>/authors/beng_sophia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/beng_sophia/</guid>
+      <description>&lt;p&gt;Sophia is working on a skin-color-agnostic heart rate measruement method. This project uses a webcam to detect and record the face of a volunteer, then performs image processing algorithms to extract the heart rate information.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
