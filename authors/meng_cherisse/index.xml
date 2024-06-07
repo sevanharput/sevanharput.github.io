@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sevan Harput</title>
-    <link>/authors/meng_cherisse/</link>
-      <atom:link href="/authors/meng_cherisse/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/meng_cherisse/</link>
+      <atom:link href="//localhost:1313/authors/meng_cherisse/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright>
     <image>
-      <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
-      <link>/authors/meng_cherisse/</link>
+      <link>//localhost:1313/authors/meng_cherisse/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/meng_cherisse/</link>
+      <link>//localhost:1313/authors/meng_cherisse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/meng_cherisse/</guid>
+      <guid>//localhost:1313/authors/meng_cherisse/</guid>
       <description>&lt;p&gt;Cherisse worked on the &amp;ldquo;Portable Ultrasonic Metallic Marker Detection Device for Breast Cancer Patients&amp;rdquo; project. Metallic markers are used to facilitate the localization of tumours in breast cancer patients. Her project focuses on the development of a hardware and signal processing algorithms to detect metallic markers and find tiny cancers to guide the surgeon during cancer removal surgery.&lt;/p&gt;
 </description>
     </item>

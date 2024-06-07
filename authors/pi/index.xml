@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sevan Harput</title>
-    <link>/authors/pi/</link>
-      <atom:link href="/authors/pi/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/pi/</link>
+      <atom:link href="//localhost:1313/authors/pi/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright>
     <image>
-      <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
-      <link>/authors/pi/</link>
+      <link>//localhost:1313/authors/pi/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/pi/</link>
+      <link>//localhost:1313/authors/pi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/pi/</guid>
+      <guid>//localhost:1313/authors/pi/</guid>
       <description>&lt;p&gt;Sevan leads the SPE3D (/speed/) Ultrasound research lab, which aims to develop new imaging and sensing technologies using acoustic waves at ultrasonic frequencies. Current research projects focus on high frame-rate ultrasound imaging, super-resolution methods, 3D ultrasound imaging, signal processing for biomedical imaging, ultrasound sensor modelling and development.&lt;/p&gt;
 &lt;p&gt;Sevan started his research career during his MSc while developing an acoustic imaging device to provide mobility aid for visually impaired people. He earned his PhD in Electronic and Electrical Engineering by implementing coded excitation methods for soft-tissue, hard-tissue and contrast-enhanced ultrasound imaging. As a research fellow at University of Leeds, he worked on the development of a new transducer technology for the Sound Bullets project. Later, he conducted his postdoctoral research at Imperial College London and King&amp;rsquo;s College London (visiting researcher) working on 2D and 3D ultrasound super-resolution imaging.&lt;/p&gt;
 </description>

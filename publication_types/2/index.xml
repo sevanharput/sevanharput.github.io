@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Sevan Harput</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/publication_types/2/</link>
+      <atom:link href="//localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Wed, 23 Aug 2023 16:04:59 +1000</lastBuildDate>
     <image>
-      <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>//localhost:1313/publication_types/2/</link>
     </image>
     
     <item>
       <title>A human ear-inspired ultrasonic transducer (HEUT) for 3D localization of sub-wavelength scatterers</title>
-      <link>/publication/heut/</link>
+      <link>//localhost:1313/publication/heut/</link>
       <pubDate>Wed, 23 Aug 2023 16:04:59 +1000</pubDate>
-      <guid>/publication/heut/</guid>
+      <guid>//localhost:1313/publication/heut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3-D Super-Resolution Ultrasound Imaging with a 2-D Sparse Array</title>
-      <link>/publication/sr_3d/</link>
+      <link>//localhost:1313/publication/sr_3d/</link>
       <pubDate>Thu, 01 Aug 2019 16:04:59 +1000</pubDate>
-      <guid>/publication/sr_3d/</guid>
+      <guid>//localhost:1313/publication/sr_3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-Stage Motion Correction for Super-Resolution Ultrasound Imaging in Human Lower Limb</title>
-      <link>/publication/sr_motion_correction/</link>
+      <link>//localhost:1313/publication/sr_motion_correction/</link>
       <pubDate>Sun, 01 Apr 2018 16:04:59 +1000</pubDate>
-      <guid>/publication/sr_motion_correction/</guid>
+      <guid>//localhost:1313/publication/sr_motion_correction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generation of Ultrasound Pulses in Water Using Granular Chains with a Finite Matching Layer</title>
-      <link>/publication/granular_chains/</link>
+      <link>//localhost:1313/publication/granular_chains/</link>
       <pubDate>Wed, 01 Nov 2017 16:04:59 +1000</pubDate>
-      <guid>/publication/granular_chains/</guid>
+      <guid>//localhost:1313/publication/granular_chains/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Amplitude Modulation on Subharmonic Imaging with Chirp Excitation</title>
-      <link>/publication/subharmonic/</link>
+      <link>//localhost:1313/publication/subharmonic/</link>
       <pubDate>Sun, 01 Dec 2013 16:04:59 +1000</pubDate>
-      <guid>/publication/subharmonic/</guid>
+      <guid>//localhost:1313/publication/subharmonic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagnostic ultrasound tooth imaging using fractional Fourier transform</title>
-      <link>/publication/tooth/</link>
+      <link>//localhost:1313/publication/tooth/</link>
       <pubDate>Sat, 01 Oct 2011 16:04:59 +1000</pubDate>
-      <guid>/publication/tooth/</guid>
+      <guid>//localhost:1313/publication/tooth/</guid>
       <description></description>
     </item>
     

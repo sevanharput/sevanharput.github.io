@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Sevan Harput</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/project/</link>
+      <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 03 Jan 2023 14:03:47 +1000</lastBuildDate>
     <image>
-      <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>//localhost:1313/project/</link>
     </image>
     
     <item>
       <title>Ultrasonic levitation of droplets</title>
-      <link>/project/ultrasonic_levitation/</link>
+      <link>//localhost:1313/project/ultrasonic_levitation/</link>
       <pubDate>Tue, 03 Jan 2023 14:03:47 +1000</pubDate>
-      <guid>/project/ultrasonic_levitation/</guid>
+      <guid>//localhost:1313/project/ultrasonic_levitation/</guid>
       <description>&lt;p&gt;Ultrasonic levitation is a non-contact method of manipulating samples in mid-air that has drawn significant interest in the fields of biochemistry and pharmaceutical science. In these fields, the stability of levitated droplets is crucial for effective applications. This study aims to investigate the droplet levitation while focusing on their oscillation dynamics and levitation stability using an ultrasonic levitator with multiple nodes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ultrasound Imaging of Ice</title>
-      <link>/project/imaging_ice/</link>
+      <link>//localhost:1313/project/imaging_ice/</link>
       <pubDate>Mon, 03 Oct 2022 14:03:47 +1000</pubDate>
-      <guid>/project/imaging_ice/</guid>
+      <guid>//localhost:1313/project/imaging_ice/</guid>
       <description>&lt;p&gt;&amp;ldquo;Ice cores provide direct information about how greenhouse gas concentrations have changed in the past, and they also provide direct evidence that the climate can change abruptly under some circumstances.&amp;rdquo; &lt;a href=&#34;https://www.bas.ac.uk/data/our-data/publication/ice-cores-and-climate-change/&#34;&gt;British Antarctic Survey&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Our aim is to understand ice anisotropy and its impact on ice flow and stability in predicting future sea level rise. It proposes a new ultrasound method to determine crystal orientation fabric, identifying grain geometry with pulse-echo, without damaging the sample, unlike the current method of using polarised light microscopy.&lt;/p&gt;
 </description>
@@ -33,9 +33,9 @@
     
     <item>
       <title>Ultrasound simulations of bone</title>
-      <link>/project/bone_simulations/</link>
+      <link>//localhost:1313/project/bone_simulations/</link>
       <pubDate>Sun, 02 Feb 2020 14:03:47 +1000</pubDate>
-      <guid>/project/bone_simulations/</guid>
+      <guid>//localhost:1313/project/bone_simulations/</guid>
       <description>&lt;p&gt;Over 3 million people in the UK are estimated to have osteoporosis, which is commonly diagnosed by patients’ medical history and measuring bone mineral density (BMD) using X-Ray radiation. BMD is also a crucial parameter for the &lt;a href=&#34;https://www.nhs.uk/live-well/healthy-body/osteoporosis-fracture-risk-assessment-tool-frax/&#34;&gt;NHS Fracture Risk Assessment Tool&lt;/a&gt; to estimate a 10-year probability of major fracture risk in the spine, shoulder, forearm or hip, which is especially important for the aging UK population. Ultrasound sensing can offer a bone monitoring method that is safe, practical and quantitative, so that it can be used for prognosis and during the personalized treatment process as frequently as necessary.&lt;/p&gt;
 &lt;p&gt;Aim: Develop a new method on “Bone characterization with acoustic and ultrasound waves” for measuring BMD. Commercial ultrasound scanners are designed for soft-tissue imaging and their performance is poor for hard-tissue imaging due to its different biomechanics. The opportunity here is that bone tissue allows the propagation of surface waves for longer distances unlike soft-tissue. Instead of designing an expensive imaging system, by strategically placing ultrasound sensors at certain locations valuable information can be acquired by several transducers. Especially for patients with metal implants and hip replacements ultrasound imaging is the best modality since CT and MRI are prone to artefacts.&lt;/p&gt;
 </description>
@@ -43,9 +43,9 @@
     
     <item>
       <title>Bone health assessment</title>
-      <link>/project/bone_characterization/</link>
+      <link>//localhost:1313/project/bone_characterization/</link>
       <pubDate>Mon, 02 Sep 2019 14:03:47 +1000</pubDate>
-      <guid>/project/bone_characterization/</guid>
+      <guid>//localhost:1313/project/bone_characterization/</guid>
       <description>&lt;p&gt;Over 3 million people in the UK are estimated to have osteoporosis, which is commonly diagnosed by patients’ medical history and measuring bone mineral density (BMD) using X-Ray radiation. BMD is also a crucial parameter for the &lt;a href=&#34;https://www.nhs.uk/live-well/healthy-body/osteoporosis-fracture-risk-assessment-tool-frax/&#34;&gt;NHS Fracture Risk Assessment Tool&lt;/a&gt; to estimate a 10-year probability of major fracture risk in the spine, shoulder, forearm or hip, which is especially important for the aging UK population. Ultrasound sensing can offer a bone monitoring method that is safe, practical and quantitative, so that it can be used for prognosis and during the personalized treatment process as frequently as necessary.&lt;/p&gt;
 &lt;p&gt;Aim: Develop a new method on “Bone characterization with acoustic and ultrasound waves” for measuring BMD. Commercial ultrasound scanners are designed for soft-tissue imaging and their performance is poor for hard-tissue imaging due to its different biomechanics. The opportunity here is that bone tissue allows the propagation of surface waves for longer distances unlike soft-tissue. Instead of designing an expensive imaging system, by strategically placing ultrasound sensors at certain locations valuable information can be acquired by several transducers. Especially for patients with metal implants and hip replacements ultrasound imaging is the best modality since CT and MRI are prone to artefacts.&lt;/p&gt;
 </description>
@@ -53,9 +53,9 @@
     
     <item>
       <title>Velocity estimation for ultrasound imaging</title>
-      <link>/project/velocity_tracking/</link>
+      <link>//localhost:1313/project/velocity_tracking/</link>
       <pubDate>Thu, 06 Jun 2019 14:03:47 +1000</pubDate>
-      <guid>/project/velocity_tracking/</guid>
+      <guid>//localhost:1313/project/velocity_tracking/</guid>
       <description>&lt;p&gt;In a 2019 article called “3-D Super-Resolution Ultrasound Imaging with a 2-D Sparse Array”, velocities of detected microbubbles were traced using the nearest neighbour method between consecutive frames. An additional measure was used to filter incorrect pairings. If, in consecutive frames, there was more than 50% deviation in volume size between the microbubble echoes, that velocity track was replaced with the next closest microbubble pair after the same size comparison. To accelerate the tracking, a search window was set to allow a maximum microbubble velocity of 100 mm/s, which is larger than the velocity profile expected in human microcirculation.&lt;/p&gt;
 &lt;p&gt;Velocity maps can easily distinguish opposing flow directions and separate adjacent vessels according to their speed distribution.  Therefore, velocity tracking enables further differentiation between vessels otherwise not spatially separated in the image. For this reason, evaluating different tracking methods (including Kalman filters, machine-learning, Hungarian algorithm, Trackmate for ImageJ, etc.) and finding the most suitable technique for super-resolution ultrasound imaging is crucial.&lt;/p&gt;
 </description>
@@ -63,9 +63,9 @@
     
     <item>
       <title>Pre-operative breast coil sensing with ultrasound</title>
-      <link>/project/coil_detection_breast/</link>
+      <link>//localhost:1313/project/coil_detection_breast/</link>
       <pubDate>Sun, 05 May 2019 14:03:47 +1000</pubDate>
-      <guid>/project/coil_detection_breast/</guid>
+      <guid>//localhost:1313/project/coil_detection_breast/</guid>
       <description>&lt;p&gt;There is a need for a simple method to help surgeons find tiny cancers in the operating theatre during surgery. These tiny cancers are either detected early by screening or have been rendered tiny by pre-operative chemotherapy. Metallic markers are implanted at the site of breast tumour and they must be localised before the surgery.&lt;/p&gt;
 &lt;p&gt;Problem: Currently, radiologist places a wire at the site of the coil under ultrasound guidance again on the day of surgery. This complicates the patient journey and planning of the operating lists and means that there are frequent delays and wasted time in theatre – operating theatres being one of the most expensive resources in the hospital. If the marker could be detected by the surgeon in theatre without the need for a wire localisation on the day the logistical problems would be avoided.&lt;/p&gt;
 &lt;p&gt;Aim: To develop a non-imaging ultrasound probe for detection of metallic markers without the need for the insertion of a preoperative wire. An audio feedback will indicate the proximity of the marker to guide the surgeon during surgery.&lt;/p&gt;
@@ -74,9 +74,9 @@
     
     <item>
       <title>Motion Correction for 3D Super-resolution Ultrasound Imaging</title>
-      <link>/project/motion_correction/</link>
+      <link>//localhost:1313/project/motion_correction/</link>
       <pubDate>Thu, 04 Apr 2019 14:03:47 +1000</pubDate>
-      <guid>/project/motion_correction/</guid>
+      <guid>//localhost:1313/project/motion_correction/</guid>
       <description>&lt;p&gt;Localization-based super-resolution methods rely on physiological flow to relocate or replenish sparsely distributed microbubbles inside. This results in long acquisition times in the order of seconds to generate a single super-resolved frame (excluding the data processing time) due to the slow flow in microvasculature.&lt;/p&gt;
 &lt;p&gt;A clinical method will require a handheld ultrasound scan. Through multiple frames acquired over a duration of seconds, handheld probe movement, respiration, and cardiac motion will significantly degrade the image quality and resolution. Using retrospective data, it was possible to implement a [2D motion correction algorithm for super-resolution ultrasound imaging] (&lt;a href=&#34;https://ieeexplore.ieee.org/document/8334280)&#34;&gt;https://ieeexplore.ieee.org/document/8334280)&lt;/a&gt;. This will form the basis of a 3D motion correction algorithm to be applied on newly acquired images. This project requires finding most suitable motion estimation and correction method for ultrasound imaging particularly for 3D super-resolution imaging.&lt;/p&gt;
 </description>
@@ -84,9 +84,9 @@
     
     <item>
       <title>Super-resolution Ultrasound Imaging</title>
-      <link>/project/superresolution_translation/</link>
+      <link>//localhost:1313/project/superresolution_translation/</link>
       <pubDate>Sun, 03 Mar 2019 14:03:47 +1000</pubDate>
-      <guid>/project/superresolution_translation/</guid>
+      <guid>//localhost:1313/project/superresolution_translation/</guid>
       <description>&lt;p&gt;Super-resolution ultrasound is a microvascular imaging modality that can enable real-time microscopic imaging in deep tissue. Super-resolution has already been successfully demonstrated &lt;a href=&#34;https://ieeexplore.ieee.org/document/6908009&#34;&gt;pre-clinically&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore.ieee.org/document/8334280&#34;&gt;clinically&lt;/a&gt; by Dr Harput’s previous research group. Although it is a revolutionary imaging modality, there are significant challenges for the clinical translation, such as huge amount of data and the corresponding computing power required to process such data.&lt;/p&gt;
 &lt;p&gt;Implementing a fast in vivo imaging is essential for clinical translation. Currently, super-resolution data processing and image formation take &amp;gt;6 hours, which must be reduced to a clinically acceptable timescale. The existing super-localization and filtering methods must be replaced with algorithms that have lower computational complexity. Also these algorithms should be implemented on a GPU while using computer learning-based methods for further acceleration.&lt;/p&gt;
 </description>
@@ -94,9 +94,9 @@
     
     <item>
       <title>Ultrasound array imaging in air</title>
-      <link>/project/ultrasound_air/</link>
+      <link>//localhost:1313/project/ultrasound_air/</link>
       <pubDate>Tue, 01 Jan 2019 14:03:47 +1000</pubDate>
-      <guid>/project/ultrasound_air/</guid>
+      <guid>//localhost:1313/project/ultrasound_air/</guid>
       <description>&lt;p&gt;Ultrasound imaging and range detection has been used in many applications, such as medical imaging, robotics, underwater sonar, parking sensors, etc… Dr Harput has developed an &lt;a href=&#34;https://ieeexplore.ieee.org/document/4655542&#34;&gt;ultrasonic phased array prototype device&lt;/a&gt; to provide mobility aid for visually impaired people. To perform imaging, a transmit array and a receive array were constructed using commercially available ultrasonic transducers.&lt;/p&gt;
 &lt;p&gt;Aim: Develop a new ultrasound imaging method in air for an application of your choice. You can benefit from the existing research expertise within the group.&lt;/p&gt;
 </description>
