@@ -32,7 +32,27 @@
     </item>
     
     <item>
-      <title>Velocity tracking for super-resolution ultrasound imaging</title>
+      <title>Ultrasound simulations of bone</title>
+      <link>/project/bone_simulations/</link>
+      <pubDate>Sun, 02 Feb 2020 14:03:47 +1000</pubDate>
+      <guid>/project/bone_simulations/</guid>
+      <description>&lt;p&gt;Over 3 million people in the UK are estimated to have osteoporosis, which is commonly diagnosed by patients’ medical history and measuring bone mineral density (BMD) using X-Ray radiation. BMD is also a crucial parameter for the &lt;a href=&#34;https://www.nhs.uk/live-well/healthy-body/osteoporosis-fracture-risk-assessment-tool-frax/&#34;&gt;NHS Fracture Risk Assessment Tool&lt;/a&gt; to estimate a 10-year probability of major fracture risk in the spine, shoulder, forearm or hip, which is especially important for the aging UK population. Ultrasound sensing can offer a bone monitoring method that is safe, practical and quantitative, so that it can be used for prognosis and during the personalized treatment process as frequently as necessary.&lt;/p&gt;
+&lt;p&gt;Aim: Develop a new method on “Bone characterization with acoustic and ultrasound waves” for measuring BMD. Commercial ultrasound scanners are designed for soft-tissue imaging and their performance is poor for hard-tissue imaging due to its different biomechanics. The opportunity here is that bone tissue allows the propagation of surface waves for longer distances unlike soft-tissue. Instead of designing an expensive imaging system, by strategically placing ultrasound sensors at certain locations valuable information can be acquired by several transducers. Especially for patients with metal implants and hip replacements ultrasound imaging is the best modality since CT and MRI are prone to artefacts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bone health assessment</title>
+      <link>/project/bone_characterization/</link>
+      <pubDate>Mon, 02 Sep 2019 14:03:47 +1000</pubDate>
+      <guid>/project/bone_characterization/</guid>
+      <description>&lt;p&gt;Over 3 million people in the UK are estimated to have osteoporosis, which is commonly diagnosed by patients’ medical history and measuring bone mineral density (BMD) using X-Ray radiation. BMD is also a crucial parameter for the &lt;a href=&#34;https://www.nhs.uk/live-well/healthy-body/osteoporosis-fracture-risk-assessment-tool-frax/&#34;&gt;NHS Fracture Risk Assessment Tool&lt;/a&gt; to estimate a 10-year probability of major fracture risk in the spine, shoulder, forearm or hip, which is especially important for the aging UK population. Ultrasound sensing can offer a bone monitoring method that is safe, practical and quantitative, so that it can be used for prognosis and during the personalized treatment process as frequently as necessary.&lt;/p&gt;
+&lt;p&gt;Aim: Develop a new method on “Bone characterization with acoustic and ultrasound waves” for measuring BMD. Commercial ultrasound scanners are designed for soft-tissue imaging and their performance is poor for hard-tissue imaging due to its different biomechanics. The opportunity here is that bone tissue allows the propagation of surface waves for longer distances unlike soft-tissue. Instead of designing an expensive imaging system, by strategically placing ultrasound sensors at certain locations valuable information can be acquired by several transducers. Especially for patients with metal implants and hip replacements ultrasound imaging is the best modality since CT and MRI are prone to artefacts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Velocity estimation for ultrasound imaging</title>
       <link>/project/velocity_tracking/</link>
       <pubDate>Thu, 06 Jun 2019 14:03:47 +1000</pubDate>
       <guid>/project/velocity_tracking/</guid>
@@ -69,16 +89,6 @@
       <guid>/project/superresolution_translation/</guid>
       <description>&lt;p&gt;Super-resolution ultrasound is a microvascular imaging modality that can enable real-time microscopic imaging in deep tissue. Super-resolution has already been successfully demonstrated &lt;a href=&#34;https://ieeexplore.ieee.org/document/6908009&#34;&gt;pre-clinically&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore.ieee.org/document/8334280&#34;&gt;clinically&lt;/a&gt; by Dr Harput’s previous research group. Although it is a revolutionary imaging modality, there are significant challenges for the clinical translation, such as huge amount of data and the corresponding computing power required to process such data.&lt;/p&gt;
 &lt;p&gt;Implementing a fast in vivo imaging is essential for clinical translation. Currently, super-resolution data processing and image formation take &amp;gt;6 hours, which must be reduced to a clinically acceptable timescale. The existing super-localization and filtering methods must be replaced with algorithms that have lower computational complexity. Also these algorithms should be implemented on a GPU while using computer learning-based methods for further acceleration.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ultrasonic bone characterization</title>
-      <link>/project/bone_characterization/</link>
-      <pubDate>Sat, 02 Feb 2019 14:03:47 +1000</pubDate>
-      <guid>/project/bone_characterization/</guid>
-      <description>&lt;p&gt;Over 3 million people in the UK are estimated to have osteoporosis, which is commonly diagnosed by patients’ medical history and measuring bone mineral density (BMD) using X-Ray radiation. BMD is also a crucial parameter for the &lt;a href=&#34;https://www.nhs.uk/live-well/healthy-body/osteoporosis-fracture-risk-assessment-tool-frax/&#34;&gt;NHS Fracture Risk Assessment Tool&lt;/a&gt; to estimate a 10-year probability of major fracture risk in the spine, shoulder, forearm or hip, which is especially important for the aging UK population. Ultrasound sensing can offer a bone monitoring method that is safe, practical and quantitative, so that it can be used for prognosis and during the personalized treatment process as frequently as necessary.&lt;/p&gt;
-&lt;p&gt;Aim: Develop a new method on “Bone characterization with acoustic and ultrasound waves” for measuring BMD. Commercial ultrasound scanners are designed for soft-tissue imaging and their performance is poor for hard-tissue imaging due to its different biomechanics. The opportunity here is that bone tissue allows the propagation of surface waves for longer distances unlike soft-tissue. Instead of designing an expensive imaging system, by strategically placing ultrasound sensors at certain locations valuable information can be acquired by several transducers. Especially for patients with metal implants and hip replacements ultrasound imaging is the best modality since CT and MRI are prone to artefacts.&lt;/p&gt;
 </description>
     </item>
     

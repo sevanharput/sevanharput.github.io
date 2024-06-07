@@ -5,12 +5,41 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 30 Jan 2024 14:03:47 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 14 May 2024 10:00:00 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Our research presentation at ISMICT conference 2024, London , UK.</title>
+      <link>/post/2024may_ismict/</link>
+      <pubDate>Tue, 14 May 2024 10:00:00 +1000</pubDate>
+      <guid>/post/2024may_ismict/</guid>
+      <description>&lt;p&gt;Great presentation by Hossam Hassan Sultan on exploring the role of ultrasound signals, envelope features with the application of machine learning algorithms for bone health monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our research presentation at the National Physical Laboratory (NPL) SNM seminar 2024 in London, UK.</title>
+      <link>/post/2024apr_npl_snm_seminar/</link>
+      <pubDate>Tue, 30 Apr 2024 10:00:00 +1000</pubDate>
+      <guid>/post/2024apr_npl_snm_seminar/</guid>
+      <description>&lt;p&gt;Great presentation by Mishal Alfadhly on development of a new non-contact ultrasonic/acoustic pressure detection method for the nuclear industry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Journal article on bone characterisation using ultrafast ultrasound.</title>
+      <link>/post/2024mar_ieee_access/</link>
+      <pubDate>Fri, 22 Mar 2024 14:33:17 +1000</pubDate>
+      <guid>/post/2024mar_ieee_access/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;Read our research article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10537175&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>New research grant awarded by the MRC.</title>

@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/post/2024jan_mrc_grant/</loc>
-    <lastmod>2024-01-30T14:03:47+10:00</lastmod>
+    <loc>/post/2024may_ismict/</loc>
+    <lastmod>2024-05-14T10:00:00+10:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2024-01-30T14:03:47+10:00</lastmod>
+    <lastmod>2024-05-14T10:00:00+10:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2024-05-14T10:00:00+10:00</lastmod>
+  </url><url>
+    <loc>/post/2024apr_npl_snm_seminar/</loc>
+    <lastmod>2024-04-30T10:00:00+10:00</lastmod>
+  </url><url>
+    <loc>/post/2024mar_ieee_access/</loc>
+    <lastmod>2024-03-22T14:33:17+10:00</lastmod>
+  </url><url>
+    <loc>/post/2024jan_mrc_grant/</loc>
     <lastmod>2024-01-30T14:03:47+10:00</lastmod>
   </url><url>
     <loc>/post/2023nov_frontierseditor/</loc>
@@ -116,6 +125,9 @@
     <loc>/post/2020jan_icr-seminar/</loc>
     <lastmod>2020-02-04T14:03:47+10:00</lastmod>
   </url><url>
+    <loc>/project/bone_simulations/</loc>
+    <lastmod>2020-02-02T14:03:47+10:00</lastmod>
+  </url><url>
     <loc>/post/2020jan_raeng_networkingevent/</loc>
     <lastmod>2020-01-28T14:03:47+10:00</lastmod>
   </url><url>
@@ -130,6 +142,9 @@
   </url><url>
     <loc>/post/2019oct_ius/</loc>
     <lastmod>2019-10-06T14:03:47+10:00</lastmod>
+  </url><url>
+    <loc>/project/bone_characterization/</loc>
+    <lastmod>2019-09-02T14:03:47+10:00</lastmod>
   </url><url>
     <loc>/publication/sr_3d/</loc>
     <lastmod>2019-08-01T16:04:59+10:00</lastmod>
@@ -151,9 +166,6 @@
   </url><url>
     <loc>/project/superresolution_translation/</loc>
     <lastmod>2019-03-03T14:03:47+10:00</lastmod>
-  </url><url>
-    <loc>/project/bone_characterization/</loc>
-    <lastmod>2019-02-02T14:03:47+10:00</lastmod>
   </url><url>
     <loc>/project/ultrasound_air/</loc>
     <lastmod>2019-01-01T14:03:47+10:00</lastmod>
@@ -196,6 +208,8 @@
     <loc>/authors/beng_simi/</loc>
   </url><url>
     <loc>/authors/beng_sophia/</loc>
+  </url><url>
+    <loc>/authors/beng_walid/</loc>
   </url><url>
     <loc>/authors/meng_bijay/</loc>
   </url><url>
