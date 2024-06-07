@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sevan Harput</title>
-    <link>//localhost:1313/authors/phd_mishal/</link>
-      <atom:link href="//localhost:1313/authors/phd_mishal/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/phd_mishal/</link>
+      <atom:link href="/authors/phd_mishal/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright>
     <image>
-      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
-      <link>//localhost:1313/authors/phd_mishal/</link>
+      <link>/authors/phd_mishal/</link>
     </image>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/phd_mishal/</link>
+      <link>/authors/phd_mishal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/phd_mishal/</guid>
+      <guid>/authors/phd_mishal/</guid>
       <description>&lt;p&gt;Mishal works on the development of a screening tool to detect accumulated hydrogen gas in sealed nuclear waste containers. The project aims to construct experimental test apparatus that can br fitted with an ultrasonic/acoustic sensor array. Use this sensor array to obtain data to characterise the frequency response for estimation of internal gas concentration and pressure.&lt;/p&gt;
 </description>
     </item>

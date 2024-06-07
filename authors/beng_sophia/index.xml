@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sevan Harput</title>
-    <link>//localhost:1313/authors/beng_sophia/</link>
-      <atom:link href="//localhost:1313/authors/beng_sophia/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/beng_sophia/</link>
+      <atom:link href="/authors/beng_sophia/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright>
     <image>
-      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
-      <link>//localhost:1313/authors/beng_sophia/</link>
+      <link>/authors/beng_sophia/</link>
     </image>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_sophia/</link>
+      <link>/authors/beng_sophia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_sophia/</guid>
+      <guid>/authors/beng_sophia/</guid>
       <description>&lt;p&gt;Sophia is working on a skin-color-agnostic heart rate measruement method. This project uses a webcam to detect and record the face of a volunteer, then performs image processing algorithms to extract the heart rate information.&lt;/p&gt;
 </description>
     </item>

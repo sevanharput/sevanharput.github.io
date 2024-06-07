@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Sevan Harput</title>
-    <link>//localhost:1313/authors/</link>
-      <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright>
     <image>
-      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Authors</title>
-      <link>//localhost:1313/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Sevan leads the SPE3D (/speed/) Ultrasound research lab, which aims to develop new imaging and sensing technologies using acoustic waves at ultrasonic frequencies. Current research projects focus on high frame-rate ultrasound imaging, super-resolution methods, 3D ultrasound imaging, signal processing for biomedical imaging, ultrasound sensor modelling and development.&lt;/p&gt;
 &lt;p&gt;Sevan started his research career during his MSc while developing an acoustic imaging device to provide mobility aid for visually impaired people. He earned his PhD in Electronic and Electrical Engineering by implementing coded excitation methods for soft-tissue, hard-tissue and contrast-enhanced ultrasound imaging. As a research fellow at University of Leeds, he worked on the development of a new transducer technology for the Sound Bullets project. Later, he conducted his postdoctoral research at Imperial College London and King&amp;rsquo;s College London (visiting researcher) working on 2D and 3D ultrasound super-resolution imaging.&lt;/p&gt;
 </description>
@@ -24,180 +24,180 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_constantin/</link>
+      <link>/authors/beng_constantin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_constantin/</guid>
+      <guid>/authors/beng_constantin/</guid>
       <description>&lt;p&gt;Constanted works on the &amp;ldquo;Ultrasonic Levitation&amp;rdquo; project. The aim of his project is gaining a deeper understanding of how ultrasonic waves behave in an air-bone medium and to create free standing waves where small particles can be trapped and levitated.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_daniel/</link>
+      <link>/authors/beng_daniel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_daniel/</guid>
+      <guid>/authors/beng_daniel/</guid>
       <description>&lt;p&gt;The aim of his research project is to quantify cortical bone thickness and porosity. This technology is crucial for assessing bone loss with high accuracy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_jawana/</link>
+      <link>/authors/beng_jawana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_jawana/</guid>
+      <guid>/authors/beng_jawana/</guid>
       <description>&lt;p&gt;David works on the &amp;ldquo;Pre-operative breast coil sensing with ultrasound&amp;rdquo; project. Wire localization is a standard pre-operative procedure used to facilitate the localization of tumours in breast cancer patients. This method has many well documented disadvantages, the reason why non-wire alternatives are needed. Sara&amp;rsquo;s project investigates the development of a hardware that can detect metallic markers and find tiny cancers to guide the surgeon during cancer removal surgery.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_luke/</link>
+      <link>/authors/beng_luke/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_luke/</guid>
+      <guid>/authors/beng_luke/</guid>
       <description>&lt;p&gt;Luke works on the development a neuro-enhanced smart helmet (NESH) to assess cognitive and physical performance and classify them into the following states: 1- Mental fatigue or attention deficit; 2- Fear, stress or anxiety; 3- Sickness or physical fatigue; 4- Healthy (mentally and physically).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_mohammad/</link>
+      <link>/authors/beng_mohammad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_mohammad/</guid>
+      <guid>/authors/beng_mohammad/</guid>
       <description>&lt;p&gt;Mohammad worked on the &amp;ldquo;Ultrasonic Levitation&amp;rdquo; project. The aim of his project is gaining a deeper understanding of how ultrasonic waves behave in an air-bone medium and to create free standing waves where small particles can be trapped and levitated.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_sara/</link>
+      <link>/authors/beng_sara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_sara/</guid>
+      <guid>/authors/beng_sara/</guid>
       <description>&lt;p&gt;Sara works on the &amp;ldquo;Pre-operative Breast Coil Sensing with Ultrasound&amp;rdquo; project. Wire localization is a standard pre-operative procedure used to facilitate the localization of tumours in breast cancer patients. This method has many well documented disadvantages, the reason why non-wire alternatives are needed. Sara&amp;rsquo;s project investigates the development of a hardware that can detect metallic markers and find tiny cancers to guide the surgeon during cancer removal surgery.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_simi/</link>
+      <link>/authors/beng_simi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_simi/</guid>
+      <guid>/authors/beng_simi/</guid>
       <description>&lt;p&gt;Constantin works on the &amp;ldquo;Ultrasonic Levitation&amp;rdquo; project. The aim of his project is gaining a deeper understanding of how ultrasonic waves behave in an air-bone medium and to create free standing waves where small particles can be trapped and levitated.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_sophia/</link>
+      <link>/authors/beng_sophia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_sophia/</guid>
+      <guid>/authors/beng_sophia/</guid>
       <description>&lt;p&gt;Sophia is working on a skin-color-agnostic heart rate measruement method. This project uses a webcam to detect and record the face of a volunteer, then performs image processing algorithms to extract the heart rate information.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/beng_walid/</link>
+      <link>/authors/beng_walid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/beng_walid/</guid>
+      <guid>/authors/beng_walid/</guid>
       <description>&lt;p&gt;Walid works on the &amp;ldquo;Ultrasonic Levitation&amp;rdquo; project. The aim of his project is gaining a deeper understanding of how ultrasonic waves behave in an air-bone medium and to create free standing waves where small particles can be trapped and levitated.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/meng_bijay/</link>
+      <link>/authors/meng_bijay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/meng_bijay/</guid>
+      <guid>/authors/meng_bijay/</guid>
       <description>&lt;p&gt;Bijay worked on the &amp;ldquo;Machine Learning for the Portable Ultrasonic Metallic Marker Detection Device&amp;rdquo; project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/meng_cherisse/</link>
+      <link>/authors/meng_cherisse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/meng_cherisse/</guid>
+      <guid>/authors/meng_cherisse/</guid>
       <description>&lt;p&gt;Cherisse worked on the &amp;ldquo;Portable Ultrasonic Metallic Marker Detection Device for Breast Cancer Patients&amp;rdquo; project. Metallic markers are used to facilitate the localization of tumours in breast cancer patients. Her project focuses on the development of a hardware and signal processing algorithms to detect metallic markers and find tiny cancers to guide the surgeon during cancer removal surgery.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/meng_lekshith/</link>
+      <link>/authors/meng_lekshith/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/meng_lekshith/</guid>
+      <guid>/authors/meng_lekshith/</guid>
       <description>&lt;p&gt;The aim of Lekshith&amp;rsquo;s research project is to develop a new machine learning technology to characterise human bone. This new imaging method will visualise the pores inside human bone and separate cortical and trabecular regions. This technology is crucial for assessing bone loss with high accuracy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/msc_david/</link>
+      <link>/authors/msc_david/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/msc_david/</guid>
+      <guid>/authors/msc_david/</guid>
       <description>&lt;p&gt;David works on the &amp;ldquo;Ultrasonic imaging and characterisation of Artic ice&amp;rdquo; project. Aim of this project is to deploy multiple ultrasound sensors to record and process data from ice movements and fractures.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/msc_resma/</link>
+      <link>/authors/msc_resma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/msc_resma/</guid>
+      <guid>/authors/msc_resma/</guid>
       <description>&lt;p&gt;The aim of her research project is to quantify cortical bone thickness and porosity. This technology is crucial for assessing bone loss with high accuracy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/phd_fenja/</link>
+      <link>/authors/phd_fenja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/phd_fenja/</guid>
+      <guid>/authors/phd_fenja/</guid>
       <description>&lt;p&gt;Fenya works on the diagnosis and management of soft tissue injuries using ultrasound imaging. Her project aims to develop a nvoel diagnostic tool for the assessment of in vivo muscle, tendon and ligament properties.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/phd_hossam/</link>
+      <link>/authors/phd_hossam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/phd_hossam/</guid>
+      <guid>/authors/phd_hossam/</guid>
       <description>&lt;p&gt;Hossam works on the &amp;ldquo;Ultrasound Imaging of Human Bone with High Resolution&amp;rdquo; project. The aim of his research project is to develop a new bone image technology with high-resolution ultrasound. This new imaging method will visualise the pores inside human bone and separate cortical and trabecular regions. This technology is crucial for assessing bone loss with high accuracy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/phd_jerome/</link>
+      <link>/authors/phd_jerome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/phd_jerome/</guid>
+      <guid>/authors/phd_jerome/</guid>
       <description>&lt;p&gt;The problem Jereome wants to solve is that there is no way of non-destructive imaging of the internal structure of Antarctic ice cores, a unique and important resource for understanding climate data. The project tries to achive this by applying recent technological advances from biomedical imaging: multisensor arrays, high levels of stacking, and modern analysis techniques for the large data sets which are produced by this approach.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/phd_maryam/</link>
+      <link>/authors/phd_maryam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/phd_maryam/</guid>
+      <guid>/authors/phd_maryam/</guid>
       <description>&lt;p&gt;The aim of Maryam&amp;rsquo;s research project is to develop a novel therapeutic method by combining ultrasound and microwave imaging modalities to activate nanodroplets. Microwave imaging is an emerging technology that shows potential for healthcare diagnostic applications and therapy particularly for brain and breast cancer detection. Ultrasound on the other hand is a well-established method in the clinic, but the use of nanodroplets with ultrasound is only demonstrated in research settings. This project will employ both of these modalities and use nanodroplets as therapeutic agents for the treatment of brain tumours. The effect of ultrasound and microwaves has not been demonstrated for simultaneous activation and imaging of nanodroplets.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/phd_mishal/</link>
+      <link>/authors/phd_mishal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/phd_mishal/</guid>
+      <guid>/authors/phd_mishal/</guid>
       <description>&lt;p&gt;Mishal works on the development of a screening tool to detect accumulated hydrogen gas in sealed nuclear waste containers. The project aims to construct experimental test apparatus that can br fitted with an ultrasonic/acoustic sensor array. Use this sensor array to obtain data to characterise the frequency response for estimation of internal gas concentration and pressure.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/pi/</link>
+      <link>/authors/pi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/pi/</guid>
+      <guid>/authors/pi/</guid>
       <description>&lt;p&gt;Sevan leads the SPE3D (/speed/) Ultrasound research lab, which aims to develop new imaging and sensing technologies using acoustic waves at ultrasonic frequencies. Current research projects focus on high frame-rate ultrasound imaging, super-resolution methods, 3D ultrasound imaging, signal processing for biomedical imaging, ultrasound sensor modelling and development.&lt;/p&gt;
 &lt;p&gt;Sevan started his research career during his MSc while developing an acoustic imaging device to provide mobility aid for visually impaired people. He earned his PhD in Electronic and Electrical Engineering by implementing coded excitation methods for soft-tissue, hard-tissue and contrast-enhanced ultrasound imaging. As a research fellow at University of Leeds, he worked on the development of a new transducer technology for the Sound Bullets project. Later, he conducted his postdoctoral research at Imperial College London and King&amp;rsquo;s College London (visiting researcher) working on 2D and 3D ultrasound super-resolution imaging.&lt;/p&gt;
 </description>

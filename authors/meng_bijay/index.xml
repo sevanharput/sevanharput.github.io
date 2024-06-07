@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sevan Harput</title>
-    <link>//localhost:1313/authors/meng_bijay/</link>
-      <atom:link href="//localhost:1313/authors/meng_bijay/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/meng_bijay/</link>
+      <atom:link href="/authors/meng_bijay/index.xml" rel="self" type="application/rss+xml" />
     <description>Sevan Harput</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright>
     <image>
-      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Sevan Harput</title>
-      <link>//localhost:1313/authors/meng_bijay/</link>
+      <link>/authors/meng_bijay/</link>
     </image>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/meng_bijay/</link>
+      <link>/authors/meng_bijay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/meng_bijay/</guid>
+      <guid>/authors/meng_bijay/</guid>
       <description>&lt;p&gt;Bijay worked on the &amp;ldquo;Machine Learning for the Portable Ultrasonic Metallic Marker Detection Device&amp;rdquo; project.&lt;/p&gt;
 </description>
     </item>

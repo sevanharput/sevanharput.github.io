@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Sevan Harput</title>
-    <link>//localhost:1313/post/</link>
-      <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 14 May 2024 10:01:00 +1000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
+      <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
-      <link>//localhost:1313/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>Our research presentation at ISMICT conference 2024, London, UK.</title>
-      <link>//localhost:1313/post/2024may_ismict/</link>
+      <link>/post/2024may_ismict-conf/</link>
       <pubDate>Tue, 14 May 2024 10:01:00 +1000</pubDate>
-      <guid>//localhost:1313/post/2024may_ismict/</guid>
+      <guid>/post/2024may_ismict-conf/</guid>
       <description>&lt;p&gt;Great presentation by Hossam Hassan Sultan on exploring the role of ultrasound signals, envelope features with the application of machine learning algorithms for bone health monitoring.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our research presentation at the National Physical Laboratory (NPL) SNM seminar 2024 in London, UK.</title>
-      <link>//localhost:1313/post/2024apr_npl_snm_seminar/</link>
+      <link>/post/2024apr_npl_snm_seminar/</link>
       <pubDate>Tue, 30 Apr 2024 10:00:00 +1000</pubDate>
-      <guid>//localhost:1313/post/2024apr_npl_snm_seminar/</guid>
+      <guid>/post/2024apr_npl_snm_seminar/</guid>
       <description>&lt;p&gt;Great presentation by Mishal Alfadhly on development of a new non-contact ultrasonic/acoustic pressure detection method for the nuclear industry.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Journal article on bone characterisation using ultrafast ultrasound.</title>
-      <link>//localhost:1313/post/2024mar_ieee_access/</link>
+      <link>/post/2024mar_ieee_access/</link>
       <pubDate>Fri, 22 Mar 2024 14:33:17 +1000</pubDate>
-      <guid>//localhost:1313/post/2024mar_ieee_access/</guid>
+      <guid>/post/2024mar_ieee_access/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;Read our research article &lt;a href=&#34;https://ieeexplore.ieee.org/document/10537175&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
@@ -43,20 +43,20 @@
     
     <item>
       <title>New research grant awarded by the MRC.</title>
-      <link>//localhost:1313/post/2024jan_mrc_grant/</link>
+      <link>/post/2024jan_mrc_grant/</link>
       <pubDate>Tue, 30 Jan 2024 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2024jan_mrc_grant/</guid>
+      <guid>/post/2024jan_mrc_grant/</guid>
       <description>&lt;p&gt;Speed Ultrasound Lab won a new research grant, funded by &lt;a href=&#34;https://www.ukri.org/councils/mrc/&#34;&gt;the Medical Research Council (MRC)&lt;/a&gt; to develop new drug delivery technology to the brain.
 The problem with cancer drugs, or chemotherapy in general, is that drugs kill the health tissue along with the tumour. Our technology, which is a combination of microwaves and ultrasound, will be able to activate the cancer drugs on demand, only at desired locations inside the brain to minimize the collateral damage.&lt;/p&gt;
-&lt;p&gt;A total of £155.9k is awarded for this research project ‘&lt;a href=&#34;//localhost:1313/lab/#funding&#34;&gt;Enhancing Blood-Brain Barrier Opening with Ultrasound and Microwaves for Targeted Drug Delivery&lt;/a&gt;’.&lt;/p&gt;
+&lt;p&gt;A total of £155.9k is awarded for this research project ‘&lt;a href=&#34;/lab/#funding&#34;&gt;Enhancing Blood-Brain Barrier Opening with Ultrasound and Microwaves for Targeted Drug Delivery&lt;/a&gt;’.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dr Harput joins the editorial board of the Frontiers in Acoustics.</title>
-      <link>//localhost:1313/post/2023nov_frontierseditor/</link>
+      <link>/post/2023nov_frontierseditor/</link>
       <pubDate>Wed, 01 Nov 2023 14:33:17 +1000</pubDate>
-      <guid>//localhost:1313/post/2023nov_frontierseditor/</guid>
+      <guid>/post/2023nov_frontierseditor/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;Pleased to join the editorial board of Frontiers in Acoustics as review editor. This new journal will help drive innovation in its field through high quality open access research. Find out more:
 &lt;a href=&#34;https://www.frontiersin.org/journals/acoustics&#34;&gt;https://www.frontiersin.org/journals/acoustics&lt;/a&gt;&lt;/p&gt;
@@ -66,9 +66,9 @@ The problem with cancer drugs, or chemotherapy in general, is that drugs kill th
     
     <item>
       <title>A very busy week at LSBU.</title>
-      <link>//localhost:1313/post/2023sept_lsbu_welcome_week/</link>
+      <link>/post/2023sept_lsbu_welcome_week/</link>
       <pubDate>Mon, 25 Sep 2023 14:33:17 +1000</pubDate>
-      <guid>//localhost:1313/post/2023sept_lsbu_welcome_week/</guid>
+      <guid>/post/2023sept_lsbu_welcome_week/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;It is the welcome week at LSBU. Students are back.
 Dr Harput&amp;rsquo;s and Jerome Grave&amp;rsquo;s research are showcased during the Welcome Week.
@@ -79,9 +79,9 @@ Kudos to Dr Safia Barikzai for the photos.&lt;/p&gt;
     
     <item>
       <title>Three presentations and more at the IEEE IUS 2023 in Montreal, Canada.</title>
-      <link>//localhost:1313/post/2023sept_ius2023/</link>
+      <link>/post/2023sept_ius2023/</link>
       <pubDate>Fri, 08 Sep 2023 14:33:17 +1000</pubDate>
-      <guid>//localhost:1313/post/2023sept_ius2023/</guid>
+      <guid>/post/2023sept_ius2023/</guid>
       <description>&lt;html&gt;
 &lt;b&gt;Hossam H. Sultan et al. – “Cortical Bone Thickness Assessment from Multi-frequency Ultrasound RF Data using a Convolutional Architecture with Multi-head Attention”&lt;/b&gt;
 &lt;br&gt; &lt;br&gt; 
@@ -99,9 +99,9 @@ Kudos to Dr Safia Barikzai for the photos.&lt;/p&gt;
     
     <item>
       <title>Featured article on Applied Physics Letters.</title>
-      <link>//localhost:1313/post/2023aug_apl_featured/</link>
+      <link>/post/2023aug_apl_featured/</link>
       <pubDate>Fri, 25 Aug 2023 14:33:17 +1000</pubDate>
-      <guid>//localhost:1313/post/2023aug_apl_featured/</guid>
+      <guid>/post/2023aug_apl_featured/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;Read our research article &lt;a href=&#34;https://pubs.aip.org/aip/apl/article-abstract/123/8/082203/2907915/A-human-ear-inspired-ultrasonic-transducer-HEUT&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
@@ -110,18 +110,18 @@ Kudos to Dr Safia Barikzai for the photos.&lt;/p&gt;
     
     <item>
       <title>Imaging fabella at the Royal Society Summer Science Exhibition.</title>
-      <link>//localhost:1313/post/2023july_rs_sse/</link>
+      <link>/post/2023july_rs_sse/</link>
       <pubDate>Thu, 06 Jul 2023 18:00:00 +1300</pubDate>
-      <guid>//localhost:1313/post/2023july_rs_sse/</guid>
+      <guid>/post/2023july_rs_sse/</guid>
       <description>&lt;p&gt;It was an amazing experience to attend the Royal Society Summer Science Exhibition and do ultrasound scans on 147 volunteers, including two Fellows of the Royal Society and many science enthusiasts. Special thanks to Dr Michael Berthaume for leading the exhibition and Mrs Fenja Deister for her invaluable work.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Do you know how many researchers work on ultrasound in south London?</title>
-      <link>//localhost:1313/post/2023may_slug/</link>
+      <link>/post/2023may_slug/</link>
       <pubDate>Fri, 26 May 2023 18:00:00 +1000</pubDate>
-      <guid>//localhost:1313/post/2023may_slug/</guid>
+      <guid>/post/2023may_slug/</guid>
       <description>&lt;p&gt;A social event for ultrasound researchers in south London - all postcodes starting with an “S” :)
 Professors, lecturers, PDRAs, PhDs and any researchers with or without a degree are all welcome.&lt;/p&gt;
 </description>
@@ -129,27 +129,27 @@ Professors, lecturers, PDRAs, PhDs and any researchers with or without a degree 
     
     <item>
       <title>Our research presentation at Nuclear Decommissioning Authority (NDA) PhD bursary seminar 2023 in Manchester, UK.</title>
-      <link>//localhost:1313/post/2023jan_nda-seminar/</link>
+      <link>/post/2023jan_nda-seminar/</link>
       <pubDate>Tue, 24 Jan 2023 10:00:00 +1000</pubDate>
-      <guid>//localhost:1313/post/2023jan_nda-seminar/</guid>
+      <guid>/post/2023jan_nda-seminar/</guid>
       <description>&lt;p&gt;Great presentation by Mishal Alfadhly on development of a new non-contact ultrasonic/acoustic pressure detection method for the nuclear industry.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Congratulations to Luke Alderson for receiving the IET Future Talent Award.</title>
-      <link>//localhost:1313/post/2023jan_luke_iet-award/</link>
+      <link>/post/2023jan_luke_iet-award/</link>
       <pubDate>Mon, 09 Jan 2023 10:00:00 +1000</pubDate>
-      <guid>//localhost:1313/post/2023jan_luke_iet-award/</guid>
+      <guid>/post/2023jan_luke_iet-award/</guid>
       <description>&lt;p&gt;Congratulations on receiving the IET Future Talent boost scholarship award! Our lab is so happy for you, and proud.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>We are teaching ultrasound imaging for the world&#39;s first anthroengineeing course.</title>
-      <link>//localhost:1313/post/2022nov_ultrasound-in-anthroengineering/</link>
+      <link>/post/2022nov_ultrasound-in-anthroengineering/</link>
       <pubDate>Mon, 07 Nov 2022 13:00:40 +1000</pubDate>
-      <guid>//localhost:1313/post/2022nov_ultrasound-in-anthroengineering/</guid>
+      <guid>/post/2022nov_ultrasound-in-anthroengineering/</guid>
       <description>&lt;p&gt;A completely new academic course, MSc Anthroengineering, which for the first time brings together Engineering (science of technology) and Anthropology (science of humanity) has been started. &lt;a href=&#34;https://www.lsbu.ac.uk/about-us/news/worlds-first-anthroengineering-academic-course-to-start-in-2022&#34;&gt;Click here for more&amp;hellip;&lt;/a&gt;.
 Dr Harput is teaching the physics and applications of medical imaging modalities, especially ultrasound imaging.&lt;/p&gt;
 </description>
@@ -157,9 +157,9 @@ Dr Harput is teaching the physics and applications of medical imaging modalities
     
     <item>
       <title>Four presentations and more at the IEEE IUS 2022 in Venice, Italy.</title>
-      <link>//localhost:1313/post/2022oct_ius2022/</link>
+      <link>/post/2022oct_ius2022/</link>
       <pubDate>Sat, 15 Oct 2022 14:33:17 +1000</pubDate>
-      <guid>//localhost:1313/post/2022oct_ius2022/</guid>
+      <guid>/post/2022oct_ius2022/</guid>
       <description>&lt;html&gt;
 &lt;b&gt;Hossam H. Sultan et al. – “Estimation of Cortical Bone Strength Using CNN-based Regression Model”&lt;/b&gt;
 &lt;br&gt; https://ieeexplore.ieee.org/document/9957568
@@ -182,9 +182,9 @@ Dr Harput is teaching the physics and applications of medical imaging modalities
     
     <item>
       <title>Lab Transformation. Before and after.</title>
-      <link>//localhost:1313/post/2022aug_lab_transformation/</link>
+      <link>/post/2022aug_lab_transformation/</link>
       <pubDate>Mon, 01 Aug 2022 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2022aug_lab_transformation/</guid>
+      <guid>/post/2022aug_lab_transformation/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;New Ultrasound Research Lab is fully functional and operational at LSBU E217!&lt;/p&gt;
 &lt;br&gt;
@@ -193,9 +193,9 @@ Dr Harput is teaching the physics and applications of medical imaging modalities
     
     <item>
       <title>Four abstracts have been accepted for the IEEE IUS 2022.</title>
-      <link>//localhost:1313/post/2022june_ius2022/</link>
+      <link>/post/2022june_ius2022/</link>
       <pubDate>Tue, 21 Jun 2022 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2022june_ius2022/</guid>
+      <guid>/post/2022june_ius2022/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;For the full IUS 2022 program check the &lt;a href=&#34;https://2022.ieee-ius.org/&#34;&gt;website&lt;/a&gt; before the conference.&lt;/p&gt;
 &lt;br&gt;
@@ -204,18 +204,18 @@ Dr Harput is teaching the physics and applications of medical imaging modalities
     
     <item>
       <title>Our research presentation at QMSKI 2022 in Noordwijk, Netherlands.</title>
-      <link>//localhost:1313/post/2022june_qmski/</link>
+      <link>/post/2022june_qmski/</link>
       <pubDate>Tue, 14 Jun 2022 11:30:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2022june_qmski/</guid>
+      <guid>/post/2022june_qmski/</guid>
       <description>&lt;p&gt;Great presentation by Hossam Hassan on detection of cortical bone porosity and thickness using multi-frequency ultrasound measurements at &lt;a href=&#34;https://qmski.org/&#34;&gt;QMSKI 2022&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fully Funded &amp; Industry Sponsored PhD Scholarship in Ultrasonic Testing and Data Analysis for Nuclear Industry</title>
-      <link>//localhost:1313/post/2022may_phd_positions/</link>
+      <link>/post/2022may_phd_positions/</link>
       <pubDate>Sun, 01 May 2022 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2022may_phd_positions/</guid>
+      <guid>/post/2022may_phd_positions/</guid>
       <description>&lt;p&gt;We are offering an industrial PhD scholarships funded by the National Nuclear Laboratory and the Sellafield Ltd, which manages the nuclear fuel reprocessing, nuclear waste storage and nuclear decommissioning. The industrial partners expect the PhD project to develop into a real world product, where the successful PhD candidate will be able to lead the project beyond the PhD timeline.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ANbsAeK9D8KZuszHk1e0bqP04NX-GYfx/view?usp=sharing&#34;&gt;Click here for details&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
@@ -225,9 +225,9 @@ Dr Harput is teaching the physics and applications of medical imaging modalities
     
     <item>
       <title>Apply for a PhD in ultrasound and microwave dual-modality imaging.</title>
-      <link>//localhost:1313/post/2022apr_phd_positions/</link>
+      <link>/post/2022apr_phd_positions/</link>
       <pubDate>Fri, 01 Apr 2022 14:13:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2022apr_phd_positions/</guid>
+      <guid>/post/2022apr_phd_positions/</guid>
       <description>&lt;p&gt;PhD scholarships available in dual-modality cancer therapy with ultrasound and microwaves using nanodroplets.
 The aim of this research project is to develop a novel therapeutic method by combining ultrasound and microwave imaging modalities to activate nanodroplets.
 The PhD project will focus on characterization of novel therapeutic nanodroplets using ultrasound and microwaves. PhD student will work closely with the Prof M Thanou’s research team at King’s College London, who are developing the nanodroplets.
@@ -239,22 +239,22 @@ The PhD project will focus on characterization of novel therapeutic nanodroplets
     
     <item>
       <title>Realistic Bone Simulations for Ultrasonic Characterization of Cortical Bone Porosity and Thickness</title>
-      <link>//localhost:1313/post/2022mar_realisticbonesim/</link>
+      <link>/post/2022mar_realisticbonesim/</link>
       <pubDate>Sat, 05 Mar 2022 12:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2022mar_realisticbonesim/</guid>
+      <guid>/post/2022mar_realisticbonesim/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;To establish a more realistic model, cortical bone simulations were generated using microstructural elements extracted from a real micrograph. Then, the new extracted pores have been used as seeds to build a reference dictionary. For the extracted pores, many features have been calculated and considered such as the effective diameters, pore sizes, and pores geometrical shapes. By employing this dictionary, numerous numbers of new cortical bone maps could be generated.&lt;/p&gt;
 &lt;p&gt;In realsitic simulations, pores are randomly distributed within the cortical bone to mimic different biological conditions. In addition, geometric distortions have been added and considered including bone curvature, surface roughness, and pore-density weighting along the lateral-medial or anterior-posterior direction.&lt;/p&gt;
-&lt;p&gt;Research project: ‘&lt;a href=&#34;//localhost:1313/project/bone_characterization/&#34;&gt;Ultrasonic bone characterization&lt;/a&gt;’.&lt;/p&gt;
+&lt;p&gt;Research project: ‘&lt;a href=&#34;/project/bone_characterization/&#34;&gt;Ultrasonic bone characterization&lt;/a&gt;’.&lt;/p&gt;
 &lt;br&gt;
 </description>
     </item>
     
     <item>
       <title>Fully funded industrial PhD position available.</title>
-      <link>//localhost:1313/post/2021oct_phd_position/</link>
+      <link>/post/2021oct_phd_position/</link>
       <pubDate>Fri, 15 Oct 2021 14:33:17 +1000</pubDate>
-      <guid>//localhost:1313/post/2021oct_phd_position/</guid>
+      <guid>/post/2021oct_phd_position/</guid>
       <description>&lt;p&gt;PhD scholarship available in Ultrasonic Non-Destructive Testing: &lt;a href=&#34;https://www.findaphd.com/phds/program/phd-scholarship-in-ultrasonic-non-destructive-testing-for-nuclear-applications/?i152p5453&#34;&gt;https://www.findaphd.com/phds/program/phd-scholarship-in-ultrasonic-non-destructive-testing-for-nuclear-applications/?i152p5453&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The successful candidate will develop an ultrasonic analysis tool for detecting hydrogen gas in sealed pressurised storage containers. This project is fully funded by the National Nuclear Laboratory. The post will also offer a job opportunity in the nuclear sector at the end of the PhD period. Please contact Dr Sevan Harput by email for more details.&lt;/p&gt;
 &lt;br&gt;
@@ -264,9 +264,9 @@ The PhD project will focus on characterization of novel therapeutic nanodroplets
     
     <item>
       <title>Three abstracts have been accepted for the IEEE IUS 2021.</title>
-      <link>//localhost:1313/post/2021sept_ius2021/</link>
+      <link>/post/2021sept_ius2021/</link>
       <pubDate>Wed, 01 Sep 2021 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2021sept_ius2021/</guid>
+      <guid>/post/2021sept_ius2021/</guid>
       <description>&lt;html&gt;
 &lt;b&gt;Luzhen Nie et al. – “Localization of a Scatterer in 3D with a Single-Element Transducer”&lt;/b&gt;
 &lt;br&gt; Session Code: MIS Coded Excitation &amp; Tomography (Poster)
@@ -289,9 +289,9 @@ The PhD project will focus on characterization of novel therapeutic nanodroplets
     
     <item>
       <title>New Ultrasound Bone Quantification Project</title>
-      <link>//localhost:1313/post/2021june_rei-presentation/</link>
+      <link>/post/2021june_rei-presentation/</link>
       <pubDate>Tue, 01 Jun 2021 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2021june_rei-presentation/</guid>
+      <guid>/post/2021june_rei-presentation/</guid>
       <description>&lt;html&gt;
 &lt;b&gt;Sevan Harput – “A New Non-Invasive Technique for Bone Porosity Imaging”&lt;/b&gt;
 &lt;br&gt; Event: BioMedical Imaging at LSBU: A Vision of the Future in Imaging Technology
@@ -307,20 +307,20 @@ The PhD project will focus on characterization of novel therapeutic nanodroplets
     
     <item>
       <title>New 3D printed acoustic lenses for imaging</title>
-      <link>//localhost:1313/post/2021mar_3d-lenses/</link>
+      <link>/post/2021mar_3d-lenses/</link>
       <pubDate>Mon, 01 Mar 2021 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2021mar_3d-lenses/</guid>
+      <guid>/post/2021mar_3d-lenses/</guid>
       <description>&lt;br&gt;
-&lt;p&gt;Desing and fabrication of our new acoustic lenses done for the our &lt;a href=&#34;https://royalsociety.org/&#34;&gt;the Royal Society&lt;/a&gt; research project ‘&lt;a href=&#34;//localhost:1313/lab/#funding&#34;&gt;Human Ear-inspired Ultrasonic Transducer (HEUT) with a Spiral-shaped Acoustic Lens for 3D Localization of Sparse Scatterers&lt;/a&gt;’.&lt;/p&gt;
+&lt;p&gt;Desing and fabrication of our new acoustic lenses done for the our &lt;a href=&#34;https://royalsociety.org/&#34;&gt;the Royal Society&lt;/a&gt; research project ‘&lt;a href=&#34;/lab/#funding&#34;&gt;Human Ear-inspired Ultrasonic Transducer (HEUT) with a Spiral-shaped Acoustic Lens for 3D Localization of Sparse Scatterers&lt;/a&gt;’.&lt;/p&gt;
 &lt;br&gt;
 </description>
     </item>
     
     <item>
       <title>Our paper is accepted to ISBI 2021.</title>
-      <link>//localhost:1313/post/2021feb_isbi2021/</link>
+      <link>/post/2021feb_isbi2021/</link>
       <pubDate>Sun, 07 Feb 2021 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2021feb_isbi2021/</guid>
+      <guid>/post/2021feb_isbi2021/</guid>
       <description>&lt;html&gt;
 &lt;b&gt;Enrico Grisan et al. – “Deep-Learning Estimation of Perfusion Kinetic Parameters in Contrast-Enhanced Ultrasound Imaging”&lt;/b&gt;
 &lt;br&gt; Session: Poster session 4 
@@ -335,9 +335,9 @@ The PhD project will focus on characterization of novel therapeutic nanodroplets
     
     <item>
       <title>LAB-in-a-BOX</title>
-      <link>//localhost:1313/post/2021jan_lab-in-a-box/</link>
+      <link>/post/2021jan_lab-in-a-box/</link>
       <pubDate>Fri, 15 Jan 2021 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2021jan_lab-in-a-box/</guid>
+      <guid>/post/2021jan_lab-in-a-box/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;We packed and shipped over 45 boxes for EEE students at level 6 and level 7. By using the LAB-in-a-BOX, it will be possible to do the labs from home and get real hands on experience during Covid.
 Tweeted by the division, &lt;a href=&#34;https://twitter.com/EEE_LSBU/status/1356728489714606080&#34;&gt;click here&lt;/a&gt;&lt;/p&gt;
@@ -347,9 +347,9 @@ Tweeted by the division, &lt;a href=&#34;https://twitter.com/EEE_LSBU/status/135
     
     <item>
       <title>Six abstracts have been accepted for the IEEE IUS 2020.</title>
-      <link>//localhost:1313/post/2020sept_ius2020/</link>
+      <link>/post/2020sept_ius2020/</link>
       <pubDate>Mon, 07 Sep 2020 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2020sept_ius2020/</guid>
+      <guid>/post/2020sept_ius2020/</guid>
       <description>&lt;html&gt;
 &lt;b&gt;Luzhen Nie et al. – “Localization of a Scatterer in 3D with a Single Measurement and Single Element Transducer”&lt;/b&gt;
 &lt;br&gt; Session Code: B1P-24 (Poster)
@@ -384,9 +384,9 @@ Tweeted by the division, &lt;a href=&#34;https://twitter.com/EEE_LSBU/status/135
     
     <item>
       <title>Apply for a PhD in ultrasound bone imaging.</title>
-      <link>//localhost:1313/post/2020july_phd_positions/</link>
+      <link>/post/2020july_phd_positions/</link>
       <pubDate>Wed, 01 Jul 2020 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2020july_phd_positions/</guid>
+      <guid>/post/2020july_phd_positions/</guid>
       <description>&lt;p&gt;PhD scholarships available in ultrasound bone imaging.
 Contact Dr Harput for details. Application deadline is 01/08/2020.&lt;/p&gt;
 &lt;br&gt;
@@ -396,9 +396,9 @@ Contact Dr Harput for details. Application deadline is 01/08/2020.&lt;/p&gt;
     
     <item>
       <title>Presented at STEM for BRITAIN 2020</title>
-      <link>//localhost:1313/post/2020mar_stemforbritain/</link>
+      <link>/post/2020mar_stemforbritain/</link>
       <pubDate>Mon, 09 Mar 2020 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2020mar_stemforbritain/</guid>
+      <guid>/post/2020mar_stemforbritain/</guid>
       <description>&lt;p&gt;Dr Harput has displayed his research as a poster at the House of Commons on Monday 9th March in the Engineering Sciences Session of &lt;a href=&#34;http://stemforbritain.org.uk/&#34;&gt;STEM for BRITAIN 2020&lt;/a&gt;, in the Attlee Suite, Portcullis House, London, UK.
 Our work received press release and media coverage &lt;a href=&#34;https://www.lsbu.ac.uk/about-us/news/new-research-grant-awarded-by-the-royal-society-and-presenting-at-stem-for-britain-2020&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -406,37 +406,37 @@ Our work received press release and media coverage &lt;a href=&#34;https://www.l
     
     <item>
       <title>New research grant awarded by the Royal Society.</title>
-      <link>//localhost:1313/post/2020mar_rs_grant/</link>
+      <link>/post/2020mar_rs_grant/</link>
       <pubDate>Fri, 28 Feb 2020 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2020mar_rs_grant/</guid>
+      <guid>/post/2020mar_rs_grant/</guid>
       <description>&lt;p&gt;Speed Ultrasound Lab won a new research grant by &lt;a href=&#34;https://royalsociety.org/&#34;&gt;the Royal Society&lt;/a&gt; to develop new ultrasound transducer technology.
-A total of £20k is awarded for this research project ‘&lt;a href=&#34;//localhost:1313/lab/#funding&#34;&gt;Human Ear-inspired Ultrasonic Transducer (HEUT) with a Spiral-shaped Acoustic Lens for 3D Localization of Sparse Scatterers&lt;/a&gt;’.&lt;/p&gt;
+A total of £20k is awarded for this research project ‘&lt;a href=&#34;/lab/#funding&#34;&gt;Human Ear-inspired Ultrasonic Transducer (HEUT) with a Spiral-shaped Acoustic Lens for 3D Localization of Sparse Scatterers&lt;/a&gt;’.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Presenting our research at Westminster, London, UK.</title>
-      <link>//localhost:1313/post/2020jan_stemforbritain/</link>
+      <link>/post/2020jan_stemforbritain/</link>
       <pubDate>Wed, 05 Feb 2020 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2020jan_stemforbritain/</guid>
+      <guid>/post/2020jan_stemforbritain/</guid>
       <description>&lt;p&gt;Dr Harput has been selected to display his research as a poster at the House of Commons on Monday 9th March in the Engineering Sciences Session of &lt;a href=&#34;http://stemforbritain.org.uk/&#34;&gt;STEM for BRITAIN 2020&lt;/a&gt;, from 3.30pm – 6.15pm in the Attlee Suite, Portcullis House, London, UK.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Seminar on 4 February 2020 at the Institute of Cancer Research (ICR), London, UK.</title>
-      <link>//localhost:1313/post/2020jan_icr-seminar/</link>
+      <link>/post/2020jan_icr-seminar/</link>
       <pubDate>Tue, 04 Feb 2020 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2020jan_icr-seminar/</guid>
+      <guid>/post/2020jan_icr-seminar/</guid>
       <description>&lt;p&gt;Dr Harput is invited to give a seminar on ‘Super-Resolution Ultrasound Imaging with Microbubble Contrast Agents: Challenges and Opportunities’ at the &lt;a href=&#34;https://www.icr.ac.uk/&#34;&gt;Institute of Cancer Research (ICR)&lt;/a&gt;, London, UK.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dr Harput is invited to the ‘Leaders in Innovation Fellowship’ networking event, London, UK.</title>
-      <link>//localhost:1313/post/2020jan_raeng_networkingevent/</link>
+      <link>/post/2020jan_raeng_networkingevent/</link>
       <pubDate>Tue, 28 Jan 2020 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2020jan_raeng_networkingevent/</guid>
+      <guid>/post/2020jan_raeng_networkingevent/</guid>
       <description>&lt;p&gt;Dr Harput has been invitated by Ambassador Ümit Yalçın, for “Leaders in Innovation Fellowship” networking event that he will be hosting on Tuesday, 28th January 2020 at the Ambassadorial Residence.&lt;/p&gt;
 &lt;p&gt;The Leaders in Innovation Fellowships (LIF) programme, which is run by the Royal Academy of Engineering and supported by the Newton Fund, works with engineers, academics and researchers in 16 countries, who have an innovation that could have a positive social or economic impact in their own countries or other developing nations. 15 participants from each country are chosen to attend an intensive 2-week entrepreneurship training course in London followed by up to a year of one-to-one support in their home countries to build their capacity to bring their innovations to market. There is a global community of over a thousand innovators working across a wide range of engineering disciplines and sectors tackling complex global challenges, including medical technology, agrotechnology and food security, water and sanitation, sustainable energy, and data infrastructure.&lt;/p&gt;
 </description>
@@ -444,18 +444,18 @@ A total of £20k is awarded for this research project ‘&lt;a href=&#34;//local
     
     <item>
       <title>Minister of Education (United Arab Emirates) and Executive Vice President (Khalifa University) visited LSBU.</title>
-      <link>//localhost:1313/post/2020jan_uae_minister_of_education/</link>
+      <link>/post/2020jan_uae_minister_of_education/</link>
       <pubDate>Fri, 24 Jan 2020 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2020jan_uae_minister_of_education/</guid>
+      <guid>/post/2020jan_uae_minister_of_education/</guid>
       <description>&lt;p&gt;Dr Harput and Dr Grisan presented thier ultrasound imaging project to HE. Hussein Bin Ibrahim Al Hammadi (Minister of Education, UAE Ministry of Education), Dr. Arif Sultan Al Hammadi (Executive Vice President, Khalifa University) and Dr. Samuel Sheng Mao Senior Director, Masdar Institute/Khalifa University.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our abstract has been accepted for the 25th European symposium on Ultrasound Contrast Imaging 2020 in Rotterdam, NL.</title>
-      <link>//localhost:1313/post/2019dec_rotterdam_conf_accept/</link>
+      <link>/post/2019dec_rotterdam_conf_accept/</link>
       <pubDate>Sun, 15 Dec 2019 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2019dec_rotterdam_conf_accept/</guid>
+      <guid>/post/2019dec_rotterdam_conf_accept/</guid>
       <description>&lt;p&gt;Our abstract on ‘Micro vessel Analysis with 3D Super-resolution Ultrasound and Super-Resolved Velocity Mapping’ has been accepted as an oral presentation for the competition: SUPER-RESOLUTION IMAGING.
 It will be presented by Dr Matthieu Toulemonde at the 25th European symposium on Ultrasound Contrast Imaging 2020 in Rotterdam, NL.&lt;/p&gt;
 </description>
@@ -463,9 +463,9 @@ It will be presented by Dr Matthieu Toulemonde at the 25th European symposium on
     
     <item>
       <title>Apply for a PhD in ultrasound imaging.</title>
-      <link>//localhost:1313/post/2019nov_phd_positions/</link>
+      <link>/post/2019nov_phd_positions/</link>
       <pubDate>Fri, 01 Nov 2019 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2019nov_phd_positions/</guid>
+      <guid>/post/2019nov_phd_positions/</guid>
       <description>&lt;p&gt;PhD scholarships available in ultrasound imaging: &lt;a href=&#34;https://www.jobs.ac.uk/job/BWO083/phd-scholarships&#34;&gt;https://www.jobs.ac.uk/job/BWO083/phd-scholarships&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.lsbu.ac.uk/__data/assets/pdf_file/0011/254756/Advert-PhD-SoE_Nov2019.pdf&#34;&gt;Click here&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;br&gt;
@@ -475,9 +475,9 @@ It will be presented by Dr Matthieu Toulemonde at the 25th European symposium on
     
     <item>
       <title>Attending the IEEE International Ultrasonics Symposium (IUS) 2019 in Glasgow, UK.</title>
-      <link>//localhost:1313/post/2019oct_ius/</link>
+      <link>/post/2019oct_ius/</link>
       <pubDate>Sun, 06 Oct 2019 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2019oct_ius/</guid>
+      <guid>/post/2019oct_ius/</guid>
       <description>&lt;p&gt;We did not forget to present our research, while catching up with friends and colleagues in Glasgow, UK.&lt;/p&gt;
 &lt;p&gt;Here are our proceedings:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/8926069&#34;&gt;Acoustic Wave Sparsely-Activated Localization Microscopy (AWSALM): In Vivo Fast Ultrasound Super-Resolution Imaging using Nanodroplets&lt;/a&gt;&lt;/p&gt;
@@ -490,18 +490,18 @@ It will be presented by Dr Matthieu Toulemonde at the 25th European symposium on
     
     <item>
       <title>Dr Harput joins London South Bank University as a lecturer</title>
-      <link>//localhost:1313/post/2019july_lsbu_start/</link>
+      <link>/post/2019july_lsbu_start/</link>
       <pubDate>Mon, 15 Jul 2019 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2019july_lsbu_start/</guid>
+      <guid>/post/2019july_lsbu_start/</guid>
       <description>&lt;p&gt;It is a very friendly environment. Many opportunities to start and lead new research projects.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dr Harput&#39;s leaving do at Imperial College London</title>
-      <link>//localhost:1313/post/2019july_imperial_leaving/</link>
+      <link>/post/2019july_imperial_leaving/</link>
       <pubDate>Wed, 03 Jul 2019 14:03:47 +1000</pubDate>
-      <guid>//localhost:1313/post/2019july_imperial_leaving/</guid>
+      <guid>/post/2019july_imperial_leaving/</guid>
       <description>&lt;p&gt;Thank you everyone for coming. I will remember it.&lt;/p&gt;
 </description>
     </item>
