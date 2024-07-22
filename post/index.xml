@@ -5,12 +5,32 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 14 May 2024 10:01:00 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 19 Jul 2024 10:01:00 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to Hossam Hassan Sultan for successfully defending his PhD!</title>
+      <link>/post/2024july_hossam_viva/</link>
+      <pubDate>Fri, 19 Jul 2024 10:01:00 +1000</pubDate>
+      <guid>/post/2024july_hossam_viva/</guid>
+      <description>&lt;p&gt;After answering three hours of questions from Prof Steven Freear (external examiner) and Prof Perry Xiao (internal examiner) on ultrasound, cortical bone and data processing, Hossam Hassan Sultan passed his PhD examination.
+Thank you to both examiners and special thanks to Prof Mohammad Ghavami for chairing the examination.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fulfilling meeting LSBU &amp; Medeniyet University.</title>
+      <link>/post/2024june_medeniyet-uni-meeting/</link>
+      <pubDate>Wed, 12 Jun 2024 14:01:00 +1000</pubDate>
+      <guid>/post/2024june_medeniyet-uni-meeting/</guid>
+      <description>&lt;p&gt;Great opportunity to talk to colleagues and researchers from Turkey about our knowledge exchange activities.
+Special thanks to Prof Arafat Salih Aydiner (Management Information Systems at Medeniyet University) and Furkan Karayaka (Board Member of Istanbul Medeniyet TechnoPark and Vice Chair of the Investment Office of the Presidency of the Republic of Turkiye).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our research presentation at ISMICT conference 2024, London, UK.</title>
