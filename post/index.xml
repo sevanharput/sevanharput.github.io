@@ -5,12 +5,23 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Fri, 19 Jul 2024 10:01:00 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Sat, 31 Aug 2024 14:33:17 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Our featured article on Applied Physics Letters is being noticed.</title>
+      <link>/post/2024aug_apl_downloads/</link>
+      <pubDate>Sat, 31 Aug 2024 14:33:17 +1000</pubDate>
+      <guid>/post/2024aug_apl_downloads/</guid>
+      <description>&lt;p&gt;This article was publised as a part of the special issue on Fundamentals and Applications of Metamaterials: Breaking the Limits.
+&lt;br&gt;
+Read our research article &lt;a href=&#34;https://pubs.aip.org/aip/apl/article-abstract/123/8/082203/2907915/A-human-ear-inspired-ultrasonic-transducer-HEUT&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Congratulations to Hossam Hassan Sultan for successfully defending his PhD!</title>
@@ -23,7 +34,7 @@ Thank you to both examiners and special thanks to Prof Mohammad Ghavami for chai
     </item>
     
     <item>
-      <title>Fulfilling meeting LSBU &amp; Medeniyet University.</title>
+      <title>Fulfilling meeting between LSBU &amp; Medeniyet University.</title>
       <link>/post/2024june_medeniyet-uni-meeting/</link>
       <pubDate>Wed, 12 Jun 2024 14:01:00 +1000</pubDate>
       <guid>/post/2024june_medeniyet-uni-meeting/</guid>
