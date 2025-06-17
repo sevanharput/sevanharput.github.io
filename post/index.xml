@@ -5,12 +5,54 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Sat, 31 Aug 2024 14:33:17 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 06 May 2025 10:00:00 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to Maryam  Dorvashi for winning the Vitae 3MT National Competition!</title>
+      <link>/post/2025may_maryam-award/</link>
+      <pubDate>Tue, 06 May 2025 10:00:00 +1000</pubDate>
+      <guid>/post/2025may_maryam-award/</guid>
+      <description>&lt;p&gt;Congratulations on winning the Vitae 3MT National Competition! Our lab is so happy for you, and proud.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Initial results of our MRC project is out.</title>
+      <link>/post/2025apr_mrc_results/</link>
+      <pubDate>Tue, 15 Apr 2025 14:03:47 +1000</pubDate>
+      <guid>/post/2025apr_mrc_results/</guid>
+      <description>&lt;p&gt;Speed Ultrasound Lab won a new research grant, funded by &lt;a href=&#34;https://www.ukri.org/councils/mrc/&#34;&gt;the Medical Research Council (MRC)&lt;/a&gt; to develop new drug delivery technology to the brain.
+The problem with cancer drugs, or chemotherapy in general, is that drugs kill the health tissue along with the tumour. Our technology, which is a combination of microwaves and ultrasound, will be able to activate the cancer drugs on demand, only at desired locations inside the brain to minimize the collateral damage.&lt;/p&gt;
+&lt;p&gt;Initial results of our project are ready to be published. Updates will be coming!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presented our research at the Research &amp; Innovation Festival 2024.</title>
+      <link>/post/2024nov_randi-festival/</link>
+      <pubDate>Wed, 20 Nov 2024 14:30:00 +1000</pubDate>
+      <guid>/post/2024nov_randi-festival/</guid>
+      <description>&lt;p&gt;Our research in diagnosing osteoporosis, imaging granularity of ice and ultrasound targeted drug delivery are presented in the festival.
+&lt;br&gt;
+Click here to register and get more details &lt;a href=&#34;https://www.eventbrite.co.uk/e/lsbu-research-innovation-festival-2024-main-event-tickets-1037881279847&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Journal article on phase-change nanodroplets.</title>
+      <link>/post/2024nov_frontiers-paper/</link>
+      <pubDate>Tue, 19 Nov 2024 14:33:17 +1000</pubDate>
+      <guid>/post/2024nov_frontiers-paper/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;Read our research article &lt;a href=&#34;https://www.frontiersin.org/journals/acoustics/articles/10.3389/facou.2024.1483731/full&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>Our featured article on Applied Physics Letters is being noticed.</title>
