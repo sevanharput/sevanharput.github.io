@@ -5,12 +5,54 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 06 May 2025 10:00:00 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019-{currentYear} by Sevan Harput</copyright><lastBuildDate>Tue, 16 Sep 2025 14:11:00 +1000</lastBuildDate>
     <image>
       <url>/img/SPE3D_Ultrasound_Lab_logoSR_long.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Great presentations and networking opportunities at the IEEE IUS 2025 in Utrecht, Netherlands.</title>
+      <link>/post/2025sept_ius2025/</link>
+      <pubDate>Tue, 16 Sep 2025 14:11:00 +1000</pubDate>
+      <guid>/post/2025sept_ius2025/</guid>
+      <description>&lt;html&gt;
+&lt;b&gt;Maryam Dorvashi et al. – “Ultrasound imaging of perfluoropentane nanodroplets after microwave-exposure”&lt;/b&gt;
+&lt;br&gt; &lt;br&gt; 
+&lt;/html&gt;
+&lt;br&gt;
+&lt;p&gt;For the full IEEE IUS 2025 program &lt;a href=&#34;https://2025.ieee-ius.org/&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Health Innovation Network South London visited LSBU.</title>
+      <link>/post/2025july_hin-visit/</link>
+      <pubDate>Mon, 14 Jul 2025 14:03:47 +1000</pubDate>
+      <guid>/post/2025july_hin-visit/</guid>
+      <description>&lt;p&gt;Dr Harput presented our point-of-care ultrasound (POCUS) project to HIN network. Message us if you want to learn more about POCUS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congratulations to Fenja Deister for making it to the top 10 oral presentations in the European College of Sport Science (ECSS) Young Investigators Award!</title>
+      <link>/post/2025july_fenja-conference/</link>
+      <pubDate>Fri, 04 Jul 2025 10:00:00 +1000</pubDate>
+      <guid>/post/2025july_fenja-conference/</guid>
+      <description>&lt;p&gt;Congratulations for making to the top 10! Our lab is so happy for you, and proud.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talking about ultrasound at the Royal Society Summer Science Exhibition.</title>
+      <link>/post/2025july_rs_sse/</link>
+      <pubDate>Tue, 01 Jul 2025 18:00:00 +1300</pubDate>
+      <guid>/post/2025july_rs_sse/</guid>
+      <description>&lt;p&gt;It was an amazing experience to attend the Royal Society Summer Science Exhibition and talk about ultrasound. Thanks and kudos to Prof Sandy Cochran and Prof Maya Thanou for organizing and inviting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Congratulations to Maryam  Dorvashi for winning the Vitae 3MT National Competition!</title>
